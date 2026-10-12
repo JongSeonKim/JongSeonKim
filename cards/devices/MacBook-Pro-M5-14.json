@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "MacBook-Pro-M5-14",
-  "updatedAt": "2026-10-12T12:30:11.481Z",
+  "updatedAt": "2026-10-12T14:51:58.862Z",
   "daily": [
     {
       "agent": "all",
@@ -4381,9 +4381,9 @@
     },
     {
       "agent": "all",
-      "cacheCreationTokens": 1289178,
-      "cacheReadTokens": 120411580,
-      "inputTokens": 124989,
+      "cacheCreationTokens": 1689921,
+      "cacheReadTokens": 135750618,
+      "inputTokens": 125235,
       "metadata": {
         "agents": [
           "claude",
@@ -4392,12 +4392,12 @@
       },
       "modelBreakdowns": [
         {
-          "cacheCreationTokens": 1289178,
-          "cacheReadTokens": 115824444,
-          "cost": 43.80790780000002,
-          "inputTokens": 836,
+          "cacheCreationTokens": 1689921,
+          "cacheReadTokens": 131163482,
+          "cost": 52.2925234,
+          "inputTokens": 1082,
           "modelName": "claude-opus-5-5",
-          "outputTokens": 545686
+          "outputTokens": 656180
         },
         {
           "cacheCreationTokens": 0,
@@ -4412,19 +4412,19 @@
         "claude-opus-5-5",
         "gpt-6-astra"
       ],
-      "outputTokens": 583649,
+      "outputTokens": 694143,
       "period": "2026-10-12",
-      "totalCost": 51.534723800000016,
-      "totalTokens": 122409396
+      "totalCost": 60.0193394,
+      "totalTokens": 138259917
     }
   ],
   "totals": {
-    "cacheCreationTokens": 110110187,
-    "cacheReadTokens": 12818792457,
-    "inputTokens": 385763516,
-    "outputTokens": 66310583,
-    "totalCost": 5850.690238873999,
-    "totalTokens": 13385014067,
+    "cacheCreationTokens": 110510930,
+    "cacheReadTokens": 12834131495,
+    "inputTokens": 385763762,
+    "outputTokens": 66421077,
+    "totalCost": 5859.1748544739985,
+    "totalTokens": 13400864588,
     "unpricedModels": [
       "model_placeholder_m301",
       "model_placeholder_m404",
@@ -4434,7 +4434,7 @@
   "tools": [
     [
       "Claude Code",
-      2364.6182763249994
+      2373.102891924999
     ],
     [
       "Codex",
