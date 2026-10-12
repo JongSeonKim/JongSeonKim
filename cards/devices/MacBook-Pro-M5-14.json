@@ -1,0 +1,4444 @@
+{
+  "version": 1,
+  "device": "MacBook-Pro-M5-14",
+  "updatedAt": "2026-10-12T12:30:11.481Z",
+  "daily": [
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 682752,
+      "inputTokens": 95428,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 682752,
+          "cost": 0.038136911999999995,
+          "inputTokens": 95428,
+          "modelName": "qwen-cloud/deepseek-v4-flash-0731",
+          "outputTokens": 4510
+        }
+      ],
+      "modelsUsed": [
+        "qwen-cloud/deepseek-v4-flash-0731"
+      ],
+      "outputTokens": 4510,
+      "period": "2026-08-05",
+      "totalCost": 0.038136911999999995,
+      "totalTokens": 782690
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 84667360,
+      "inputTokens": 4040147,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 64740096,
+          "cost": 46.236311199999996,
+          "inputTokens": 2601388,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 254358
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 8063104,
+          "cost": 3.24712784,
+          "inputTokens": 444106,
+          "modelName": "zai/glm-5.2",
+          "outputTokens": 120221
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 2060800,
+          "cost": 1.139144,
+          "inputTokens": 252996,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 18416
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 3699040,
+          "cost": 0.77984475,
+          "inputTokens": 450299,
+          "modelName": "gemini-3.6-flash-high",
+          "outputTokens": 23804
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 3943168,
+          "cost": 0.15463716,
+          "inputTokens": 181649,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 32870
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 2110976,
+          "cost": 0.047193455999999995,
+          "inputTokens": 59292,
+          "modelName": "qwen-cloud/deepseek-v4-flash-0731",
+          "outputTokens": 13950
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 50176,
+          "cost": 0.020328455999999998,
+          "inputTokens": 50026,
+          "modelName": "deepseek/deepseek-v4-flash",
+          "outputTokens": 4183
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 0,
+          "cost": 0,
+          "inputTokens": 391,
+          "missingPricing": true,
+          "modelName": "model_placeholder_m50",
+          "outputTokens": 19
+        }
+      ],
+      "modelsUsed": [
+        "deepseek/deepseek-v4-flash",
+        "gemini-3.6-flash-high",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "gpt-5.6-terra",
+        "model_placeholder_m50",
+        "qwen-cloud/deepseek-v4-flash-0731",
+        "zai/glm-5.2"
+      ],
+      "outputTokens": 467821,
+      "period": "2026-08-06",
+      "totalCost": 51.624586862,
+      "totalTokens": 89195442
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 105916972,
+      "inputTokens": 4923018,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 72887552,
+          "cost": 24.705766399999998,
+          "inputTokens": 3448928,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 269200
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 25986176,
+          "cost": 8.415780960000001,
+          "inputTokens": 715920,
+          "modelName": "zai/glm-5.2",
+          "outputTokens": 149338
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 2708908,
+          "cost": 0.8344521,
+          "inputTokens": 568002,
+          "modelName": "gemini-3.6-flash-high",
+          "outputTokens": 30217
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 691456,
+          "cost": 0.5254624000000001,
+          "inputTokens": 17520,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 8940
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 3642880,
+          "cost": 0.1419992,
+          "inputTokens": 171834,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 28979
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 0,
+          "cost": 0,
+          "inputTokens": 814,
+          "missingPricing": true,
+          "modelName": "model_placeholder_m50",
+          "outputTokens": 35
+        }
+      ],
+      "modelsUsed": [
+        "gemini-3.6-flash-high",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "gpt-5.6-terra",
+        "model_placeholder_m50",
+        "zai/glm-5.2"
+      ],
+      "outputTokens": 486709,
+      "period": "2026-08-07",
+      "totalCost": 34.62346106,
+      "totalTokens": 111351224
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 42834274,
+      "inputTokens": 1504022,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 38473472,
+          "cost": 1.2838175600000001,
+          "inputTokens": 834762,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 131061
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 2192128,
+          "cost": 0.9128379999999999,
+          "inputTokens": 73248,
+          "modelName": "qwen-cloud/qwen3.8-max",
+          "outputTokens": 36385
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 2104290,
+          "cost": 0.63654375,
+          "inputTokens": 402031,
+          "modelName": "gemini-3.6-flash-high",
+          "outputTokens": 25932
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 64384,
+          "cost": 0.06545810399999999,
+          "inputTokens": 193618,
+          "modelName": "deepseek/deepseek-v4-flash",
+          "outputTokens": 5822
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 0,
+          "cost": 0,
+          "inputTokens": 363,
+          "missingPricing": true,
+          "modelName": "model_placeholder_m50",
+          "outputTokens": 15
+        }
+      ],
+      "modelsUsed": [
+        "deepseek/deepseek-v4-flash",
+        "gemini-3.6-flash-high",
+        "gpt-5.6-luna",
+        "model_placeholder_m50",
+        "qwen-cloud/qwen3.8-max"
+      ],
+      "outputTokens": 199215,
+      "period": "2026-08-08",
+      "totalCost": 2.898657414,
+      "totalTokens": 44558832
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 137973161,
+      "inputTokens": 5570302,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 84365568,
+          "cost": 46.865312,
+          "inputTokens": 1399494,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 216995
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 50046208,
+          "cost": 2.29440536,
+          "inputTokens": 3628470,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 473156
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 2957824,
+          "cost": 1.6489188000000001,
+          "inputTokens": 360689,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 27998
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 556457,
+          "cost": 0.17640952499999998,
+          "inputTokens": 145847,
+          "modelName": "gemini-3.6-flash-high",
+          "outputTokens": 3210
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 47104,
+          "cost": 0.009170424,
+          "inputTokens": 18254,
+          "modelName": "deepseek/deepseek-v4-flash",
+          "outputTokens": 2843
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 0,
+          "cost": 0.0052308,
+          "inputTokens": 17300,
+          "modelName": "qwen-cloud/deepseek-v4-flash-0731",
+          "outputTokens": 34
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 0,
+          "cost": 0,
+          "inputTokens": 248,
+          "missingPricing": true,
+          "modelName": "model_placeholder_m50",
+          "outputTokens": 8
+        }
+      ],
+      "modelsUsed": [
+        "deepseek/deepseek-v4-flash",
+        "gemini-3.6-flash-high",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "gpt-5.6-terra",
+        "model_placeholder_m50",
+        "qwen-cloud/deepseek-v4-flash-0731"
+      ],
+      "outputTokens": 724244,
+      "period": "2026-08-09",
+      "totalCost": 50.999446909,
+      "totalTokens": 144271241
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 3073280,
+      "inputTokens": 307611,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 2993152,
+          "cost": 2.6798448,
+          "inputTokens": 264471,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 21235
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 80128,
+          "cost": 0.018707567999999997,
+          "inputTokens": 43140,
+          "modelName": "deepseek/deepseek-v4-flash",
+          "outputTokens": 4404
+        }
+      ],
+      "modelsUsed": [
+        "deepseek/deepseek-v4-flash",
+        "gpt-5.6-sol"
+      ],
+      "outputTokens": 25639,
+      "period": "2026-08-10",
+      "totalCost": 2.698552368,
+      "totalTokens": 3406530
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 107385291,
+      "inputTokens": 3013619,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 107303936,
+          "cost": 70.0102552,
+          "inputTokens": 2970049,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 503446
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 81355,
+          "cost": 0.043159125,
+          "inputTokens": 43470,
+          "modelName": "gemini-3.6-flash-high",
+          "outputTokens": 516
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 0,
+          "cost": 0,
+          "inputTokens": 100,
+          "missingPricing": true,
+          "modelName": "model_placeholder_m50",
+          "outputTokens": 6
+        }
+      ],
+      "modelsUsed": [
+        "gemini-3.6-flash-high",
+        "gpt-5.6-sol",
+        "model_placeholder_m50"
+      ],
+      "outputTokens": 503968,
+      "period": "2026-08-11",
+      "totalCost": 70.053414325,
+      "totalTokens": 110903550
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 127596797,
+      "inputTokens": 5889820,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 100521984,
+          "cost": 68.3796044,
+          "inputTokens": 4153332,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 509460
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 15781888,
+          "cost": 6.2726136,
+          "inputTokens": 852770,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 117558
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 3356157,
+          "cost": 0.9465462750000002,
+          "inputTokens": 590496,
+          "modelName": "gemini-3.6-flash-high",
+          "outputTokens": 40440
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 7936768,
+          "cost": 0.32243236,
+          "inputTokens": 292771,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 87619
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 0,
+          "cost": 0,
+          "inputTokens": 451,
+          "missingPricing": true,
+          "modelName": "model_placeholder_m50",
+          "outputTokens": 17
+        }
+      ],
+      "modelsUsed": [
+        "gemini-3.6-flash-high",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "gpt-5.6-terra",
+        "model_placeholder_m50"
+      ],
+      "outputTokens": 755094,
+      "period": "2026-08-12",
+      "totalCost": 75.921196635,
+      "totalTokens": 134268461
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 171424830,
+      "inputTokens": 6639968,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 170098688,
+          "cost": 115.3625348,
+          "inputTokens": 6350863,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 706396
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 1326142,
+          "cost": 0.3631178999999998,
+          "inputTokens": 288913,
+          "modelName": "gemini-3.6-flash-high",
+          "outputTokens": 6301
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 0,
+          "cost": 0,
+          "inputTokens": 192,
+          "missingPricing": true,
+          "modelName": "model_placeholder_m50",
+          "outputTokens": 9
+        }
+      ],
+      "modelsUsed": [
+        "gemini-3.6-flash-high",
+        "gpt-5.6-sol",
+        "model_placeholder_m50"
+      ],
+      "outputTokens": 712706,
+      "period": "2026-08-13",
+      "totalCost": 115.72565270000001,
+      "totalTokens": 178783729
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 174491255,
+      "inputTokens": 4939838,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 152471552,
+          "cost": 91.3168992,
+          "inputTokens": 3325432,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 707807
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 14201344,
+          "cost": 5.2079328,
+          "inputTokens": 676466,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 84561
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 1202731,
+          "cost": 0.4061813250000001,
+          "inputTokens": 363377,
+          "modelName": "gemini-3.7-flash-low",
+          "outputTokens": 8142
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 6264320,
+          "cost": 0.2687062,
+          "inputTokens": 456303,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 43466
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 351308,
+          "cost": 0.18349710000000002,
+          "inputTokens": 96157,
+          "modelName": "gemini-3.7-flash-medium",
+          "outputTokens": 20381
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 0,
+          "cost": 0.0065631,
+          "inputTokens": 21605,
+          "modelName": "deepseek/deepseek-v4-flash",
+          "outputTokens": 68
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 0,
+          "cost": 0,
+          "inputTokens": 498,
+          "missingPricing": true,
+          "modelName": "model_placeholder_m50",
+          "outputTokens": 24
+        }
+      ],
+      "modelsUsed": [
+        "deepseek/deepseek-v4-flash",
+        "gemini-3.7-flash-low",
+        "gemini-3.7-flash-medium",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "gpt-5.6-terra",
+        "model_placeholder_m50"
+      ],
+      "outputTokens": 864449,
+      "period": "2026-08-14",
+      "totalCost": 97.389779725,
+      "totalTokens": 180301279
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 293589801,
+      "inputTokens": 9843794,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 194944000,
+          "cost": 113.48332399999998,
+          "inputTokens": 3886411,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 707303
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 74155520,
+          "cost": 32.202014,
+          "inputTokens": 5375999,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 551576
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 22733312,
+          "cost": 0.39041797199999995,
+          "inputTokens": 255375,
+          "modelName": "deepseek/deepseek-v4-flash",
+          "outputTokens": 147838
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 689449,
+          "cost": 0.23845717500000005,
+          "inputTokens": 220183,
+          "modelName": "gemini-3.7-flash-medium",
+          "outputTokens": 3133
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 1067520,
+          "cost": 0.0693536,
+          "inputTokens": 105634,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 22397
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 0,
+          "cost": 0,
+          "inputTokens": 192,
+          "missingPricing": true,
+          "modelName": "model_placeholder_m50",
+          "outputTokens": 8
+        }
+      ],
+      "modelsUsed": [
+        "deepseek/deepseek-v4-flash",
+        "gemini-3.7-flash-medium",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "gpt-5.6-terra",
+        "model_placeholder_m50"
+      ],
+      "outputTokens": 1432255,
+      "period": "2026-08-15",
+      "totalCost": 146.38356674699997,
+      "totalTokens": 304868480
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 173690708,
+      "inputTokens": 4476635,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 65639296,
+          "cost": 21.16224116,
+          "inputTokens": 1702519,
+          "modelName": "zai/glm-5.3",
+          "outputTokens": 389204
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 74403712,
+          "cost": 5.910665288,
+          "inputTokens": 583552,
+          "modelName": "deepseek/deepseek-v4-pro",
+          "outputTokens": 471367
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 6425070,
+          "cost": 1.3440374999999998,
+          "inputTokens": 1105733,
+          "modelName": "google-antigravity/gemini-3.7-flash",
+          "outputTokens": 8762
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 21448576,
+          "cost": 0.754578156,
+          "inputTokens": 673949,
+          "modelName": "deepseek/deepseek-v4-flash",
+          "outputTokens": 353085
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 5574912,
+          "cost": 0.25397544,
+          "inputTokens": 325518,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 64478
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 199142,
+          "cost": 0.08639190000000001,
+          "inputTokens": 85170,
+          "modelName": "gemini-3.7-flash-medium",
+          "outputTokens": 1389
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 0,
+          "cost": 0,
+          "inputTokens": 194,
+          "missingPricing": true,
+          "modelName": "model_placeholder_m50",
+          "outputTokens": 8
+        }
+      ],
+      "modelsUsed": [
+        "deepseek/deepseek-v4-flash",
+        "deepseek/deepseek-v4-pro",
+        "gemini-3.7-flash-medium",
+        "google-antigravity/gemini-3.7-flash",
+        "gpt-5.6-luna",
+        "model_placeholder_m50",
+        "zai/glm-5.3"
+      ],
+      "outputTokens": 1288293,
+      "period": "2026-08-16",
+      "totalCost": 29.511889444,
+      "totalTokens": 179456268
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 100447168,
+      "inputTokens": 2091228,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 26264000,
+          "cost": 8.316552,
+          "inputTokens": 711976,
+          "modelName": "zai/glm-5.3",
+          "outputTokens": 111624
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 71406848,
+          "cost": 1.8676271880000002,
+          "inputTokens": 1210551,
+          "modelName": "deepseek/deepseek-v4-flash",
+          "outputTokens": 896684
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 2776320,
+          "cost": 0.1290682,
+          "inputTokens": 168701,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 33168
+        }
+      ],
+      "modelsUsed": [
+        "deepseek/deepseek-v4-flash",
+        "gpt-5.6-luna",
+        "zai/glm-5.3"
+      ],
+      "outputTokens": 1041476,
+      "period": "2026-08-17",
+      "totalCost": 10.313247388,
+      "totalTokens": 103579872
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 19284755,
+      "inputTokens": 1908264,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 12491027,
+          "cost": 2.585408775000001,
+          "inputTokens": 1613959,
+          "modelName": "gemini-3.7-flash-medium",
+          "outputTokens": 76278
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 6793728,
+          "cost": 0.31180556,
+          "inputTokens": 293641,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 97669
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 0,
+          "cost": 0,
+          "inputTokens": 664,
+          "missingPricing": true,
+          "modelName": "model_placeholder_m50",
+          "outputTokens": 37
+        }
+      ],
+      "modelsUsed": [
+        "gemini-3.7-flash-medium",
+        "gpt-5.6-luna",
+        "model_placeholder_m50"
+      ],
+      "outputTokens": 173984,
+      "period": "2026-08-18",
+      "totalCost": 2.897214335000001,
+      "totalTokens": 21407555
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 43180886,
+      "inputTokens": 6401268,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 16876289,
+          "cost": 3.2323514249999996,
+          "inputTokens": 1909913,
+          "modelName": "gemini-3.7-flash-medium",
+          "outputTokens": 96145
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 10307472,
+          "cost": 2.527725899999999,
+          "inputTokens": 1624479,
+          "modelName": "gemini-3.7-flash-high",
+          "outputTokens": 84688
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 3384960,
+          "cost": 1.6756772,
+          "inputTokens": 332066,
+          "modelName": "zai/glm-5.3",
+          "outputTokens": 75158
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 5192960,
+          "cost": 0.2383354,
+          "inputTokens": 383475,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 48151
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 498421,
+          "cost": 0.14451307500000002,
+          "inputTokens": 136317,
+          "modelName": "google-antigravity/gemini-3.7-flash",
+          "outputTokens": 1305
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 269257,
+          "cost": 0.06418027500000001,
+          "inputTokens": 28093,
+          "modelName": "gemini-3.7-flash-control",
+          "outputTokens": 5237
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 0,
+          "cost": 0.0188385,
+          "inputTokens": 9558,
+          "modelName": "gemini-3.7-flash-tiered",
+          "outputTokens": 69
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 0,
+          "cost": 0,
+          "inputTokens": 553,
+          "missingPricing": true,
+          "modelName": "model_placeholder_m50",
+          "outputTokens": 23
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 6651527,
+          "cost": 0,
+          "inputTokens": 1976814,
+          "missingPricing": true,
+          "modelName": "model_placeholder_m301",
+          "outputTokens": 53879
+        }
+      ],
+      "modelsUsed": [
+        "gemini-3.7-flash-control",
+        "gemini-3.7-flash-high",
+        "gemini-3.7-flash-medium",
+        "gemini-3.7-flash-tiered",
+        "google-antigravity/gemini-3.7-flash",
+        "gpt-5.6-luna",
+        "model_placeholder_m301",
+        "model_placeholder_m50",
+        "zai/glm-5.3"
+      ],
+      "outputTokens": 364655,
+      "period": "2026-08-19",
+      "totalCost": 7.901621774999995,
+      "totalTokens": 50144661
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 9962824,
+      "inputTokens": 1794812,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 9962824,
+          "cost": 2.2686108,
+          "inputTokens": 1794812,
+          "modelName": "google-antigravity/gemini-3.7-flash",
+          "outputTokens": 46744
+        }
+      ],
+      "modelsUsed": [
+        "google-antigravity/gemini-3.7-flash"
+      ],
+      "outputTokens": 46744,
+      "period": "2026-08-20",
+      "totalCost": 2.2686108,
+      "totalTokens": 11804380
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 28624096,
+      "inputTokens": 3889839,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 19850461,
+          "cost": 3.500939325000001,
+          "inputTokens": 1859678,
+          "modelName": "gemini-3.7-flash-high",
+          "outputTokens": 108785
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 4466880,
+          "cost": 2.0311877999999997,
+          "inputTokens": 307807,
+          "modelName": "zai/glm-5.3",
+          "outputTokens": 99743
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 1643328,
+          "cost": 0.5159916,
+          "inputTokens": 353481,
+          "modelName": "google-antigravity/gemini-3.7-flash",
+          "outputTokens": 34035
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 286727,
+          "cost": 0.063737025,
+          "inputTokens": 25445,
+          "modelName": "gemini-3.7-flash",
+          "outputTokens": 4281
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 0,
+          "cost": 0.013840499999999999,
+          "inputTokens": 7424,
+          "modelName": "gemini-3.7-flash-tiered",
+          "outputTokens": 60
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 2376700,
+          "cost": 0,
+          "inputTokens": 1336004,
+          "missingPricing": true,
+          "modelName": "model_placeholder_m301",
+          "outputTokens": 34427
+        }
+      ],
+      "modelsUsed": [
+        "gemini-3.7-flash",
+        "gemini-3.7-flash-high",
+        "gemini-3.7-flash-tiered",
+        "google-antigravity/gemini-3.7-flash",
+        "model_placeholder_m301",
+        "zai/glm-5.3"
+      ],
+      "outputTokens": 281331,
+      "period": "2026-08-22",
+      "totalCost": 6.12569625,
+      "totalTokens": 32918887
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 61366203,
+      "inputTokens": 4058068,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 16722304,
+          "cost": 6.844045640000001,
+          "inputTokens": 1080897,
+          "modelName": "zai/glm-5.3",
+          "outputTokens": 223407
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 17707008,
+          "cost": 4.6850096,
+          "inputTokens": 324316,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 41248
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 6919330,
+          "cost": 1.7858115000000008,
+          "inputTokens": 1097529,
+          "modelName": "gemini-3.7-flash-high",
+          "outputTokens": 65538
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 18118400,
+          "cost": 0.855787,
+          "inputTokens": 1304355,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 193790
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 1899161,
+          "cost": 0.37255132500000004,
+          "inputTokens": 250189,
+          "modelName": "gemini-3.7-flash-low",
+          "outputTokens": 6843
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 0,
+          "cost": 0.006114,
+          "inputTokens": 782,
+          "modelName": "gemini-3.7-flash",
+          "outputTokens": 33
+        }
+      ],
+      "modelsUsed": [
+        "gemini-3.7-flash",
+        "gemini-3.7-flash-high",
+        "gemini-3.7-flash-low",
+        "gpt-5.6-luna",
+        "gpt-5.6-terra",
+        "zai/glm-5.3"
+      ],
+      "outputTokens": 530859,
+      "period": "2026-08-24",
+      "totalCost": 14.549319065000002,
+      "totalTokens": 66013840
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 113290516,
+      "inputTokens": 8768500,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 57942720,
+          "cost": 21.361428999999998,
+          "inputTokens": 2518919,
+          "modelName": "zai/glm-5.3",
+          "outputTokens": 629508
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 29445460,
+          "cost": 5.40562125,
+          "inputTokens": 2965879,
+          "modelName": "gemini-3.7-flash-high",
+          "outputTokens": 123958
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 23753472,
+          "cost": 1.40358244,
+          "inputTokens": 2991683,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 275147
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 2148864,
+          "cost": 1.3486207999999997,
+          "inputTokens": 290206,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 28203
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 0,
+          "cost": 0.01992225,
+          "inputTokens": 1813,
+          "modelName": "gemini-3.7-flash",
+          "outputTokens": 87
+        }
+      ],
+      "modelsUsed": [
+        "gemini-3.7-flash",
+        "gemini-3.7-flash-high",
+        "gpt-5.6-luna",
+        "gpt-5.6-terra",
+        "zai/glm-5.3"
+      ],
+      "outputTokens": 1056903,
+      "period": "2026-08-25",
+      "totalCost": 29.539175739999997,
+      "totalTokens": 123256238
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 42423680,
+      "inputTokens": 2201174,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 29480320,
+          "cost": 9.5278398,
+          "inputTokens": 820761,
+          "modelName": "zai/glm-5.3",
+          "outputTokens": 162248
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 3988992,
+          "cost": 2.2166764,
+          "inputTokens": 515153,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 32381
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 8954368,
+          "cost": 0.45601736000000004,
+          "inputTokens": 865260,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 86565
+        }
+      ],
+      "modelsUsed": [
+        "gpt-5.6-luna",
+        "gpt-5.6-terra",
+        "zai/glm-5.3"
+      ],
+      "outputTokens": 281194,
+      "period": "2026-08-26",
+      "totalCost": 12.20053356,
+      "totalTokens": 44906048
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 4938665,
+      "inputTokens": 680591,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 2715904,
+          "cost": 0.9598507999999999,
+          "inputTokens": 169167,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 6528
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 799308,
+          "cost": 0.3741591000000001,
+          "inputTokens": 184113,
+          "modelName": "gemini-3.7-flash-high",
+          "outputTokens": 35068
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 98496,
+          "cost": 0.17522376,
+          "inputTokens": 100714,
+          "modelName": "zai/glm-5.3",
+          "outputTokens": 1958
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 529565,
+          "cost": 0.139650375,
+          "inputTokens": 120259,
+          "modelName": "google-antigravity/gemini-3.7-flash",
+          "outputTokens": 2597
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 795392,
+          "cost": 0.050734839999999996,
+          "inputTokens": 106059,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 11346
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 0,
+          "cost": 0.00278175,
+          "inputTokens": 279,
+          "modelName": "gemini-3.7-flash-exp-a",
+          "outputTokens": 10
+        }
+      ],
+      "modelsUsed": [
+        "gemini-3.7-flash-exp-a",
+        "gemini-3.7-flash-high",
+        "google-antigravity/gemini-3.7-flash",
+        "gpt-5.6-luna",
+        "gpt-5.6-terra",
+        "zai/glm-5.3"
+      ],
+      "outputTokens": 57507,
+      "period": "2026-08-27",
+      "totalCost": 1.702400625,
+      "totalTokens": 5689338
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 30133714,
+      "inputTokens": 2409692,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 28845889,
+          "cost": 4.6366049249999985,
+          "inputTokens": 2279791,
+          "modelName": "gemini-3.7-flash-high",
+          "outputTokens": 127879
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 973248,
+          "cost": 0.54694988,
+          "inputTokens": 118711,
+          "modelName": "zai/glm-5.3",
+          "outputTokens": 29025
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 314577,
+          "cost": 0.062207025,
+          "inputTokens": 11190,
+          "modelName": "gemini-3.7-flash-exp-a",
+          "outputTokens": 5479
+        }
+      ],
+      "modelsUsed": [
+        "gemini-3.7-flash-exp-a",
+        "gemini-3.7-flash-high",
+        "zai/glm-5.3"
+      ],
+      "outputTokens": 162383,
+      "period": "2026-08-28",
+      "totalCost": 5.245761829999998,
+      "totalTokens": 32784042
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 45466051,
+      "inputTokens": 3278078,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 21076544,
+          "cost": 7.535069840000001,
+          "inputTokens": 733410,
+          "modelName": "zai/glm-5.3",
+          "outputTokens": 233726
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 8653187,
+          "cost": 1.504330275,
+          "inputTokens": 691115,
+          "modelName": "gemini-3.7-flash-high",
+          "outputTokens": 52884
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 10097152,
+          "cost": 0.67009404,
+          "inputTokens": 1245461,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 182549
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 5633280,
+          "cost": 0.3655518,
+          "inputTokens": 589456,
+          "modelName": "zai/glm-5.3-flash",
+          "outputTokens": 216270
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 5888,
+          "cost": 0.0403336,
+          "inputTokens": 18636,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 157
+        }
+      ],
+      "modelsUsed": [
+        "gemini-3.7-flash-high",
+        "gpt-5.6-luna",
+        "gpt-5.6-terra",
+        "zai/glm-5.3",
+        "zai/glm-5.3-flash"
+      ],
+      "outputTokens": 685586,
+      "period": "2026-08-29",
+      "totalCost": 10.115379555,
+      "totalTokens": 49466699
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 65594169,
+      "inputTokens": 3954148,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 19191488,
+          "cost": 7.88546088,
+          "inputTokens": 1282618,
+          "modelName": "zai/glm-5.3",
+          "outputTokens": 250002
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 12691001,
+          "cost": 2.2852455750000003,
+          "inputTokens": 1265399,
+          "modelName": "gemini-3.7-flash-high",
+          "outputTokens": 44988
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 15046912,
+          "cost": 0.70902284,
+          "inputTokens": 1106967,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 155576
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 18664768,
+          "cost": 0.6790511400000001,
+          "inputTokens": 299164,
+          "modelName": "zai/glm-5.3-flash",
+          "outputTokens": 148467
+        }
+      ],
+      "modelsUsed": [
+        "gemini-3.7-flash-high",
+        "gpt-5.6-luna",
+        "zai/glm-5.3",
+        "zai/glm-5.3-flash"
+      ],
+      "outputTokens": 599033,
+      "period": "2026-08-30",
+      "totalCost": 11.558780435,
+      "totalTokens": 70204861
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 3326846,
+      "inputTokens": 686990,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 2640254,
+          "cost": 0.7058688,
+          "inputTokens": 520823,
+          "modelName": "google-antigravity/gemini-3.7-flash",
+          "outputTokens": 31262
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 171008,
+          "cost": 0.25857467999999995,
+          "inputTokens": 90225,
+          "modelName": "zai/glm-5.3",
+          "outputTokens": 19954
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 515584,
+          "cost": 0.03373432,
+          "inputTokens": 75942,
+          "modelName": "zai/glm-5.3-flash",
+          "outputTokens": 13751
+        }
+      ],
+      "modelsUsed": [
+        "google-antigravity/gemini-3.7-flash",
+        "zai/glm-5.3",
+        "zai/glm-5.3-flash"
+      ],
+      "outputTokens": 64967,
+      "period": "2026-08-31",
+      "totalCost": 0.9981777999999999,
+      "totalTokens": 4078803
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 149905712,
+      "inputTokens": 7924259,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 46044928,
+          "cost": 26.7315512,
+          "inputTokens": 1135585,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 188562
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 23329280,
+          "cost": 8.230186,
+          "inputTokens": 1090515,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 115275
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 41228288,
+          "cost": 1.8929761600000001,
+          "inputTokens": 3236280,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 350962
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 8814688,
+          "cost": 1.31522835,
+          "inputTokens": 528644,
+          "modelName": "gemini-3.7-flash-high",
+          "outputTokens": 25694
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 26279552,
+          "cost": 1.13762861,
+          "inputTokens": 1448347,
+          "modelName": "zai/glm-5.3-flash",
+          "outputTokens": 263980
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 3109035,
+          "cost": 0.606979125,
+          "inputTokens": 375462,
+          "modelName": "google-antigravity/gemini-3.7-flash",
+          "outputTokens": 24588
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 956992,
+          "cost": 0.50927892,
+          "inputTokens": 100957,
+          "modelName": "zai/glm-5.3",
+          "outputTokens": 27073
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 142949,
+          "cost": 0.031990425,
+          "inputTokens": 8469,
+          "modelName": "gemini-3.7-flash-exp-b",
+          "outputTokens": 3242
+        }
+      ],
+      "modelsUsed": [
+        "gemini-3.7-flash-exp-b",
+        "gemini-3.7-flash-high",
+        "google-antigravity/gemini-3.7-flash",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "gpt-5.6-terra",
+        "zai/glm-5.3",
+        "zai/glm-5.3-flash"
+      ],
+      "outputTokens": 999376,
+      "period": "2026-09-01",
+      "totalCost": 40.45581879,
+      "totalTokens": 158873094
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 24644622,
+      "inputTokens": 2271945,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 9638656,
+          "cost": 6.1277304,
+          "inputTokens": 309242,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 51765
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 10387748,
+          "cost": 2.4443496000000002,
+          "inputTokens": 1408998,
+          "modelName": "google-antigravity/gemini-3.7-flash",
+          "outputTokens": 162272
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 1363946,
+          "cost": 0.33466695,
+          "inputTokens": 169793,
+          "modelName": "gemini-3.7-flash-high",
+          "outputTokens": 13396
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 3199744,
+          "cost": 0.19952668,
+          "inputTokens": 357937,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 53287
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 54528,
+          "cost": 0.0715916,
+          "inputTokens": 25975,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 728
+        }
+      ],
+      "modelsUsed": [
+        "gemini-3.7-flash-high",
+        "google-antigravity/gemini-3.7-flash",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "gpt-5.6-terra"
+      ],
+      "outputTokens": 281448,
+      "period": "2026-09-02",
+      "totalCost": 9.17786523,
+      "totalTokens": 27212626
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 254811987,
+      "inputTokens": 10273447,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 81810432,
+          "cost": 48.3372048,
+          "inputTokens": 1871733,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 406305
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 21132544,
+          "cost": 6.666022799999999,
+          "inputTokens": 688553,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 88534
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 142644608,
+          "cost": 5.21121076,
+          "inputTokens": 6497037,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 882426
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 3844157,
+          "cost": 1.0899477750000004,
+          "inputTokens": 667903,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 35854
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 5380246,
+          "cost": 0.8659766999999999,
+          "inputTokens": 548221,
+          "modelName": "google-antigravity/gemini-3.7-flash",
+          "outputTokens": 13678
+        }
+      ],
+      "modelsUsed": [
+        "gemini-3.8-flash-high",
+        "google-antigravity/gemini-3.7-flash",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "gpt-5.6-terra"
+      ],
+      "outputTokens": 1426797,
+      "period": "2026-09-03",
+      "totalCost": 62.170362835,
+      "totalTokens": 266556566
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 206442240,
+      "inputTokens": 5598188,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 135101696,
+          "cost": 75.1667504,
+          "inputTokens": 2371268,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 582050
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 67320832,
+          "cost": 2.32921364,
+          "inputTokens": 2853411,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 343429
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 4019712,
+          "cost": 1.9153284,
+          "inputTokens": 373509,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 30364
+        }
+      ],
+      "modelsUsed": [
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "gpt-5.6-terra"
+      ],
+      "outputTokens": 955843,
+      "period": "2026-09-04",
+      "totalCost": 79.41129244000001,
+      "totalTokens": 212996271
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 390589129,
+      "inputTokens": 14324581,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 100204672,
+          "cost": 157.633852,
+          "inputTokens": 2985898,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 551404
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 101293696,
+          "cost": 57.82229840000001,
+          "inputTokens": 1967895,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 471662
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 25818880,
+          "cost": 12.209838000000001,
+          "inputTokens": 2184959,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 223012
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 143809280,
+          "cost": 4.9575282,
+          "inputTokens": 5938039,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 744779
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 19052093,
+          "cost": 2.7778344750000006,
+          "inputTokens": 1198395,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 66568
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 166016,
+          "cost": 0.21129476,
+          "inputTokens": 44341,
+          "modelName": "zai/glm-5.3",
+          "outputTokens": 24103
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 244492,
+          "cost": 0.02681865,
+          "inputTokens": 5054,
+          "modelName": "gemini-3.8-flash",
+          "outputTokens": 1251
+        }
+      ],
+      "modelsUsed": [
+        "gemini-3.8-flash",
+        "gemini-3.8-flash-high",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "gpt-5.6-terra",
+        "gpt-6-astra",
+        "zai/glm-5.3"
+      ],
+      "outputTokens": 2082779,
+      "period": "2026-09-05",
+      "totalCost": 235.639464485,
+      "totalTokens": 407049956
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 191125248,
+      "inputTokens": 5731307,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 74777344,
+          "cost": 111.85392399999999,
+          "inputTokens": 1693628,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 402806
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 39453952,
+          "cost": 13.817554399999999,
+          "inputTokens": 1547142,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 236040
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 76893952,
+          "cost": 2.53564964,
+          "inputTokens": 2490537,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 416386
+        }
+      ],
+      "modelsUsed": [
+        "gpt-5.6-luna",
+        "gpt-5.6-terra",
+        "gpt-6-astra"
+      ],
+      "outputTokens": 1055232,
+      "period": "2026-09-06",
+      "totalCost": 128.20712804,
+      "totalTokens": 197911787
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 66672573,
+      "inputTokens": 3090523,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 29159680,
+          "cost": 47.5466,
+          "inputTokens": 918917,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 183955
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 32726016,
+          "cost": 1.25342492,
+          "inputTokens": 1592713,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 233635
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 1378304,
+          "cost": 0.9419208,
+          "inputTokens": 226660,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 17745
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 3408573,
+          "cost": 0.6231489750000001,
+          "inputTokens": 352233,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 9642
+        }
+      ],
+      "modelsUsed": [
+        "gemini-3.8-flash-high",
+        "gpt-5.6-luna",
+        "gpt-5.6-terra",
+        "gpt-6-astra"
+      ],
+      "outputTokens": 444977,
+      "period": "2026-09-07",
+      "totalCost": 50.365094694999996,
+      "totalTokens": 70225986
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 22848512,
+      "inputTokens": 608541,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 8078848,
+          "cost": 10.721128,
+          "inputTokens": 147413,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 23363
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 7017472,
+          "cost": 2.3478784,
+          "inputTokens": 237316,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 39146
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 7752192,
+          "cost": 0.23632224000000002,
+          "inputTokens": 223812,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 30430
+        }
+      ],
+      "modelsUsed": [
+        "gpt-5.6-luna",
+        "gpt-5.6-terra",
+        "gpt-6-astra"
+      ],
+      "outputTokens": 92939,
+      "period": "2026-09-08",
+      "totalCost": 13.305328639999999,
+      "totalTokens": 23549992
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 368212352,
+      "inputTokens": 10742655,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 153436544,
+          "cost": 220.267044,
+          "inputTokens": 3274015,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 681807
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 65478912,
+          "cost": 26.1397484,
+          "inputTokens": 4037017,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 414161
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 149296896,
+          "cost": 4.30556252,
+          "inputTokens": 3431623,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 527750
+        }
+      ],
+      "modelsUsed": [
+        "gpt-5.6-luna",
+        "gpt-5.6-terra",
+        "gpt-6-astra"
+      ],
+      "outputTokens": 1623718,
+      "period": "2026-09-09",
+      "totalCost": 250.71235492,
+      "totalTokens": 380578725
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 51736544,
+      "inputTokens": 2026399,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 26630912,
+          "cost": 40.164822,
+          "inputTokens": 632036,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 144271
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 3870464,
+          "cost": 2.2653048,
+          "inputTokens": 430642,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 52494
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 19670784,
+          "cost": 0.67362928,
+          "inputTokens": 773810,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 104543
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 1564384,
+          "cost": 0.31856955,
+          "inputTokens": 189911,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 4155
+        }
+      ],
+      "modelsUsed": [
+        "gemini-3.8-flash-high",
+        "gpt-5.6-luna",
+        "gpt-5.6-terra",
+        "gpt-6-astra"
+      ],
+      "outputTokens": 305463,
+      "period": "2026-09-10",
+      "totalCost": 43.42232563,
+      "totalTokens": 54079933
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 9667328,
+      "inputTokens": 194768,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 3336192,
+          "cost": 5.902292,
+          "inputTokens": 112290,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 28864
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 6331136,
+          "cost": 0.15868672,
+          "inputTokens": 65376,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 15824
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 0,
+          "cost": 0.0243388,
+          "inputTokens": 17102,
+          "modelName": "zai/glm-5.3",
+          "outputTokens": 90
+        }
+      ],
+      "modelsUsed": [
+        "gpt-5.6-luna",
+        "gpt-6-astra",
+        "zai/glm-5.3"
+      ],
+      "outputTokens": 44778,
+      "period": "2026-09-11",
+      "totalCost": 6.08531752,
+      "totalTokens": 9906874
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 83111265,
+      "inputTokens": 4556894,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 15777536,
+          "cost": 23.979576,
+          "inputTokens": 394119,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 85217
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 23660385,
+          "cost": 4.371986625,
+          "inputTokens": 2416497,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 85951
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 42928640,
+          "cost": 1.5004574000000002,
+          "inputTokens": 1648373,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 260175
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 744704,
+          "cost": 0.4082188,
+          "inputTokens": 97905,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 5289
+        }
+      ],
+      "modelsUsed": [
+        "gemini-3.8-flash-high",
+        "gpt-5.6-luna",
+        "gpt-5.6-terra",
+        "gpt-6-astra"
+      ],
+      "outputTokens": 436632,
+      "period": "2026-09-12",
+      "totalCost": 30.260238825000002,
+      "totalTokens": 88228196
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 480545252,
+      "inputTokens": 16089036,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 240407424,
+          "cost": 125.70346559999999,
+          "inputTokens": 3706034,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 735818
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 53103104,
+          "cost": 74.310474,
+          "inputTokens": 1076542,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 208839
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 31182592,
+          "cost": 14.915372399999999,
+          "inputTokens": 2737931,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 266916
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 138647296,
+          "cost": 5.0382171200000005,
+          "inputTokens": 6518316,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 801340
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 16960029,
+          "cost": 3.3068166749999994,
+          "inputTokens": 2040906,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 78963
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 244807,
+          "cost": 0.029855775,
+          "inputTokens": 9307,
+          "modelName": "gemini-3.8-flash",
+          "outputTokens": 1204
+        }
+      ],
+      "modelsUsed": [
+        "gemini-3.8-flash",
+        "gemini-3.8-flash-high",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "gpt-5.6-terra",
+        "gpt-6-astra"
+      ],
+      "outputTokens": 2093080,
+      "period": "2026-09-13",
+      "totalCost": 223.30420157,
+      "totalTokens": 498782841
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 410732249,
+      "inputTokens": 17586868,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 187911680,
+          "cost": 102.870116,
+          "inputTokens": 3780396,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 629193
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 41947136,
+          "cost": 18.7652772,
+          "inputTokens": 3263611,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 320719
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 56923764,
+          "cost": 8.426854799999997,
+          "inputTokens": 4030920,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 159948
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 112560896,
+          "cost": 4.4546857200000005,
+          "inputTokens": 6323899,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 782240
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 11152384,
+          "cost": 3.33805504,
+          "inputTokens": 174106,
+          "modelName": "zai/glm-5.3",
+          "outputTokens": 44247
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 236389,
+          "cost": 0.037811175,
+          "inputTokens": 13936,
+          "modelName": "gemini-3.8-flash",
+          "outputTokens": 1130
+        }
+      ],
+      "modelsUsed": [
+        "gemini-3.8-flash",
+        "gemini-3.8-flash-high",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "gpt-5.6-terra",
+        "zai/glm-5.3"
+      ],
+      "outputTokens": 1937477,
+      "period": "2026-09-14",
+      "totalCost": 137.892799935,
+      "totalTokens": 430400586
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 44556928,
+      "inputTokens": 521042,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 43550592,
+          "cost": 21.941584799999998,
+          "inputTokens": 461367,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 133794
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 1006336,
+          "cost": 0.03804972,
+          "inputTokens": 59675,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 4990
+        }
+      ],
+      "modelsUsed": [
+        "gpt-5.6-luna",
+        "gpt-5.6-sol"
+      ],
+      "outputTokens": 138784,
+      "period": "2026-09-15",
+      "totalCost": 21.979634519999998,
+      "totalTokens": 45216754
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 207531,
+      "cacheReadTokens": 18526195,
+      "inputTokens": 1931856,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "claude"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 207531,
+          "cacheReadTokens": 8440126,
+          "cost": 7.497468000000005,
+          "inputTokens": 214,
+          "modelName": "claude-opus-5",
+          "outputTokens": 48041
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 10086069,
+          "cost": 2.664970425,
+          "inputTokens": 1931642,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 58580
+        }
+      ],
+      "modelsUsed": [
+        "claude-opus-5",
+        "gemini-3.8-flash-high"
+      ],
+      "outputTokens": 106621,
+      "period": "2026-09-16",
+      "totalCost": 10.162438425000005,
+      "totalTokens": 20836232
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 1081268,
+      "cacheReadTokens": 126671611,
+      "inputTokens": 8851377,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "claude"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 1063876,
+          "cacheReadTokens": 77426363,
+          "cost": 57.403201499999994,
+          "inputTokens": 602,
+          "modelName": "claude-opus-5",
+          "outputTokens": 321930
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 49215335,
+          "cost": 12.033025125000004,
+          "inputTokens": 8850765,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 205147
+        },
+        {
+          "cacheCreationTokens": 17392,
+          "cacheReadTokens": 29913,
+          "cost": 0.0386453,
+          "inputTokens": 10,
+          "modelName": "claude-haiku-4-5-20251001",
+          "outputTokens": 172
+        }
+      ],
+      "modelsUsed": [
+        "claude-haiku-4-5-20251001",
+        "claude-opus-5",
+        "gemini-3.8-flash-high"
+      ],
+      "outputTokens": 527249,
+      "period": "2026-09-17",
+      "totalCost": 69.474871925,
+      "totalTokens": 137380705
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 2676571,
+      "cacheReadTokens": 55329238,
+      "inputTokens": 3643164,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "claude",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 2659077,
+          "cacheReadTokens": 28965417,
+          "cost": 84.23168175000002,
+          "inputTokens": 6916,
+          "modelName": "claude-fable-5-1",
+          "outputTokens": 696643
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 13007341,
+          "cost": 3.8354348250000014,
+          "inputTokens": 3091304,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 62607
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 10086272,
+          "cost": 3.17923752,
+          "inputTokens": 201938,
+          "modelName": "zai/glm-5.3",
+          "outputTokens": 62294
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 3238912,
+          "cost": 0.20877944,
+          "inputTokens": 342996,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 62835
+        },
+        {
+          "cacheCreationTokens": 17494,
+          "cacheReadTokens": 31296,
+          "cost": 0.0390026,
+          "inputTokens": 10,
+          "modelName": "claude-haiku-4-5-20251001",
+          "outputTokens": 175
+        }
+      ],
+      "modelsUsed": [
+        "claude-fable-5-1",
+        "claude-haiku-4-5-20251001",
+        "gemini-3.8-flash-high",
+        "gpt-5.6-luna",
+        "zai/glm-5.3"
+      ],
+      "outputTokens": 884554,
+      "period": "2026-09-18",
+      "totalCost": 91.49413613500003,
+      "totalTokens": 62615295
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 9487683,
+      "cacheReadTokens": 299012150,
+      "inputTokens": 12554002,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "claude"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 7816107,
+          "cacheReadTokens": 169422941,
+          "cost": 191.47888674999956,
+          "inputTokens": 3808,
+          "modelName": "claude-opus-5",
+          "outputTokens": 2157403
+        },
+        {
+          "cacheCreationTokens": 1562501,
+          "cacheReadTokens": 41088161,
+          "cost": 57.886560250000024,
+          "inputTokens": 8024,
+          "modelName": "claude-fable-5-1",
+          "outputTokens": 433123
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 84943845,
+          "cost": 18.159219375000017,
+          "inputTokens": 12531158,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 318459
+        },
+        {
+          "cacheCreationTokens": 109075,
+          "cacheReadTokens": 3055936,
+          "cost": 1.1185186999999999,
+          "inputTokens": 82,
+          "modelName": "claude-sonnet-5",
+          "outputTokens": 23448
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 501267,
+          "cost": 0.063387525,
+          "inputTokens": 10930,
+          "modelName": "gemini-3.8-flash",
+          "outputTokens": 3571
+        }
+      ],
+      "modelsUsed": [
+        "claude-fable-5-1",
+        "claude-opus-5",
+        "claude-sonnet-5",
+        "gemini-3.8-flash",
+        "gemini-3.8-flash-high"
+      ],
+      "outputTokens": 2936004,
+      "period": "2026-09-19",
+      "totalCost": 268.70657259999984,
+      "totalTokens": 324309851
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 1701371,
+      "cacheReadTokens": 409741750,
+      "inputTokens": 17674309,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "claude",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 141233536,
+          "cost": 74.09975039999999,
+          "inputTokens": 2251469,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 430023
+        },
+        {
+          "cacheCreationTokens": 806076,
+          "cacheReadTokens": 64007806,
+          "cost": 46.46576299999997,
+          "inputTokens": 440,
+          "modelName": "claude-opus-5",
+          "outputTokens": 255956
+        },
+        {
+          "cacheCreationTokens": 895295,
+          "cacheReadTokens": 16902847,
+          "cost": 32.721089250000006,
+          "inputTokens": 2490,
+          "modelName": "claude-fable-5-1",
+          "outputTokens": 234863
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 32675072,
+          "cost": 14.6064804,
+          "inputTokens": 2596003,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 239955
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 71329232,
+          "cost": 13.944770400000001,
+          "inputTokens": 9454389,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 202320
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 83080448,
+          "cost": 2.86633136,
+          "inputTokens": 3358832,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 444130
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 512809,
+          "cost": 0.063785175,
+          "inputTokens": 10686,
+          "modelName": "gemini-3.8-flash",
+          "outputTokens": 4616
+        }
+      ],
+      "modelsUsed": [
+        "claude-fable-5-1",
+        "claude-opus-5",
+        "gemini-3.8-flash",
+        "gemini-3.8-flash-high",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "gpt-5.6-terra"
+      ],
+      "outputTokens": 1811863,
+      "period": "2026-09-20",
+      "totalCost": 184.76796998499992,
+      "totalTokens": 431128116
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 124927,
+      "cacheReadTokens": 9219045,
+      "inputTokens": 484962,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "claude"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 124927,
+          "cacheReadTokens": 6429818,
+          "cost": 5.651739,
+          "inputTokens": 132,
+          "modelName": "claude-opus-5",
+          "outputTokens": 47476
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 2789227,
+          "cost": 0.7630557749999999,
+          "inputTokens": 484830,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 25283
+        }
+      ],
+      "modelsUsed": [
+        "claude-opus-5",
+        "gemini-3.8-flash-high"
+      ],
+      "outputTokens": 72759,
+      "period": "2026-09-21",
+      "totalCost": 6.414794775,
+      "totalTokens": 9927141
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 313239,
+      "cacheReadTokens": 77589436,
+      "inputTokens": 5003547,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "claude",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 16782720,
+          "cost": 23.135119999999997,
+          "inputTokens": 321980,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 62652
+        },
+        {
+          "cacheCreationTokens": 313239,
+          "cacheReadTokens": 12118379,
+          "cost": 14.45127475,
+          "inputTokens": 1750,
+          "modelName": "claude-fable-5-1",
+          "outputTokens": 102788
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 31477789,
+          "cost": 5.8206614250000035,
+          "inputTokens": 3668798,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 82129
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 9174784,
+          "cost": 3.9704768,
+          "inputTokens": 579642,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 81353
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 7766016,
+          "cost": 0.29029092,
+          "inputTokens": 427713,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 41190
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 269748,
+          "cost": 0.02905035,
+          "inputTokens": 3664,
+          "modelName": "gemini-3.8-flash",
+          "outputTokens": 1619
+        }
+      ],
+      "modelsUsed": [
+        "claude-fable-5-1",
+        "gemini-3.8-flash",
+        "gemini-3.8-flash-high",
+        "gpt-5.6-luna",
+        "gpt-5.6-terra",
+        "gpt-6-astra"
+      ],
+      "outputTokens": 371731,
+      "period": "2026-09-22",
+      "totalCost": 47.696874245000004,
+      "totalTokens": 83384685
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 3701488,
+      "cacheReadTokens": 271619530,
+      "inputTokens": 10625389,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "claude",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 2925863,
+          "cacheReadTokens": 159537107,
+          "cost": 71.73968540000003,
+          "inputTokens": 1410,
+          "modelName": "claude-opus-5-5",
+          "outputTokens": 820986
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 19491840,
+          "cost": 27.5454,
+          "inputTokens": 462456,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 68580
+        },
+        {
+          "cacheCreationTokens": 583283,
+          "cacheReadTokens": 11641076,
+          "cost": 18.6690715,
+          "inputTokens": 2110,
+          "modelName": "claude-fable-5-1",
+          "outputTokens": 128619
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 60016651,
+          "cost": 12.718022325000005,
+          "inputTokens": 9123813,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 181583
+        },
+        {
+          "cacheCreationTokens": 192342,
+          "cacheReadTokens": 1433840,
+          "cost": 1.026517,
+          "inputTokens": 52,
+          "modelName": "claude-sonnet-5",
+          "outputTokens": 25879
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 19258624,
+          "cost": 0.73356008,
+          "inputTokens": 1029600,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 118723
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 240392,
+          "cost": 0.0351504,
+          "inputTokens": 5948,
+          "modelName": "gemini-3.8-flash",
+          "outputTokens": 1847
+        }
+      ],
+      "modelsUsed": [
+        "claude-fable-5-1",
+        "claude-opus-5-5",
+        "claude-sonnet-5",
+        "gemini-3.8-flash",
+        "gemini-3.8-flash-high",
+        "gpt-5.6-luna",
+        "gpt-6-astra"
+      ],
+      "outputTokens": 1346217,
+      "period": "2026-09-23",
+      "totalCost": 132.46740670500003,
+      "totalTokens": 287478947
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 937785,
+      "cacheReadTokens": 211885723,
+      "inputTokens": 6909119,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "claude",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 45899392,
+          "cost": 65.187532,
+          "inputTokens": 1074274,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 170908
+        },
+        {
+          "cacheCreationTokens": 937785,
+          "cacheReadTokens": 81923308,
+          "cost": 31.61864560000001,
+          "inputTokens": 676,
+          "modelName": "claude-opus-5-5",
+          "outputTokens": 386450
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 18044416,
+          "cost": 7.358597199999999,
+          "inputTokens": 1200145,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 112452
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 7703599,
+          "cost": 2.301608174999999,
+          "inputTokens": 1852966,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 32220
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 58315008,
+          "cost": 2.08335296,
+          "inputTokens": 2781058,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 300701
+        }
+      ],
+      "modelsUsed": [
+        "claude-opus-5-5",
+        "gemini-3.8-flash-high",
+        "gpt-5.6-luna",
+        "gpt-5.6-terra",
+        "gpt-6-astra"
+      ],
+      "outputTokens": 1002731,
+      "period": "2026-09-24",
+      "totalCost": 108.54973593500002,
+      "totalTokens": 220792235
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 76127232,
+      "inputTokens": 2389403,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 24897280,
+          "cost": 35.0238,
+          "inputTokens": 571207,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 88289
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 44243456,
+          "cost": 1.37227852,
+          "inputTokens": 1265709,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 195223
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 6986496,
+          "cost": 0.15008316000000002,
+          "inputTokens": 552487,
+          "modelName": "gpt-6-luna",
+          "outputTokens": 49939
+        }
+      ],
+      "modelsUsed": [
+        "gpt-5.6-luna",
+        "gpt-6-astra",
+        "gpt-6-luna"
+      ],
+      "outputTokens": 333451,
+      "period": "2026-09-25",
+      "totalCost": 36.546161680000004,
+      "totalTokens": 78850086
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 5312386,
+      "cacheReadTokens": 355009313,
+      "inputTokens": 5030601,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "claude",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 4789595,
+          "cacheReadTokens": 205303690,
+          "cost": 87.22512499999992,
+          "inputTokens": 2534,
+          "modelName": "claude-opus-5-5",
+          "outputTokens": 787542
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 39122816,
+          "cost": 52.644926,
+          "inputTokens": 732731,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 123896
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 31427456,
+          "cost": 8.1099052,
+          "inputTokens": 425327,
+          "modelName": "gpt-6-sol",
+          "outputTokens": 97376
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 74549248,
+          "cost": 2.55824736,
+          "inputTokens": 3064244,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 378678
+        },
+        {
+          "cacheCreationTokens": 522791,
+          "cacheReadTokens": 2471092,
+          "cost": 1.8943899000000002,
+          "inputTokens": 72,
+          "modelName": "claude-sonnet-5",
+          "outputTokens": 9305
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 1910499,
+          "cost": 0.794921175,
+          "inputTokens": 691615,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 16307
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 224512,
+          "cost": 0.02597192,
+          "inputTokens": 114078,
+          "modelName": "gpt-6-luna",
+          "outputTokens": 24638
+        }
+      ],
+      "modelsUsed": [
+        "claude-opus-5-5",
+        "claude-sonnet-5",
+        "gemini-3.8-flash-high",
+        "gpt-5.6-luna",
+        "gpt-6-astra",
+        "gpt-6-luna",
+        "gpt-6-sol"
+      ],
+      "outputTokens": 1437742,
+      "period": "2026-09-26",
+      "totalCost": 153.2534865549999,
+      "totalTokens": 366809181
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 5976470,
+      "cacheReadTokens": 431510805,
+      "inputTokens": 7928075,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "claude",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 87038080,
+          "cost": 113.37493,
+          "inputTokens": 1282975,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 270142
+        },
+        {
+          "cacheCreationTokens": 5117035,
+          "cacheReadTokens": 209014460,
+          "cost": 90.908338,
+          "inputTokens": 2776,
+          "modelName": "claude-opus-5-5",
+          "outputTokens": 811869
+        },
+        {
+          "cacheCreationTokens": 859435,
+          "cacheReadTokens": 11562981,
+          "cost": 4.8836056999999995,
+          "inputTokens": 256,
+          "modelName": "claude-sonnet-5",
+          "outputTokens": 42191
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 16517620,
+          "cost": 3.959010750000001,
+          "inputTokens": 2482854,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 97743
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 107143936,
+          "cost": 3.63773092,
+          "inputTokens": 4098781,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 562580
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 233728,
+          "cost": 0.012664080000000001,
+          "inputTokens": 60433,
+          "modelName": "gpt-6-luna",
+          "outputTokens": 8567
+        }
+      ],
+      "modelsUsed": [
+        "claude-opus-5-5",
+        "claude-sonnet-5",
+        "gemini-3.8-flash-high",
+        "gpt-5.6-luna",
+        "gpt-6-astra",
+        "gpt-6-luna"
+      ],
+      "outputTokens": 1793092,
+      "period": "2026-09-27",
+      "totalCost": 216.77627945,
+      "totalTokens": 447339512
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 4711568,
+      "cacheReadTokens": 543895912,
+      "inputTokens": 17193254,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "claude",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 106790528,
+          "cost": 145.286398,
+          "inputTokens": 2092747,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 351368
+        },
+        {
+          "cacheCreationTokens": 4217401,
+          "cacheReadTokens": 245392152,
+          "cost": 95.52150540000014,
+          "inputTokens": 2480,
+          "modelName": "claude-opus-5-5",
+          "outputTokens": 919390
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 52444292,
+          "cost": 12.284766900000005,
+          "inputTokens": 7939245,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 332810
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 136471680,
+          "cost": 5.0669196,
+          "inputTokens": 7123020,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 760735
+        },
+        {
+          "cacheCreationTokens": 263538,
+          "cacheReadTokens": 391777,
+          "cost": 3.4453792500000002,
+          "inputTokens": 226,
+          "modelName": "claude-fable-5-1",
+          "outputTokens": 1019
+        },
+        {
+          "cacheCreationTokens": 230629,
+          "cacheReadTokens": 1936107,
+          "cost": 0.5872769500000001,
+          "inputTokens": 380,
+          "modelName": "claude-haiku-4-5-20251001",
+          "outputTokens": 21000
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 469376,
+          "cost": 0.0810402,
+          "inputTokens": 35156,
+          "modelName": "gemini-3.8-flash",
+          "outputTokens": 3741
+        }
+      ],
+      "modelsUsed": [
+        "claude-fable-5-1",
+        "claude-haiku-4-5-20251001",
+        "claude-opus-5-5",
+        "gemini-3.8-flash",
+        "gemini-3.8-flash-high",
+        "gpt-5.6-luna",
+        "gpt-6-astra"
+      ],
+      "outputTokens": 2390063,
+      "period": "2026-09-28",
+      "totalCost": 262.27328630000017,
+      "totalTokens": 568498641
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 3112387,
+      "cacheReadTokens": 398416810,
+      "inputTokens": 11679871,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "claude",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 103060352,
+          "cost": 146.813672,
+          "inputTokens": 1891847,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 496697
+        },
+        {
+          "cacheCreationTokens": 2857748,
+          "cacheReadTokens": 101131100,
+          "cost": 45.99157099999995,
+          "inputTokens": 1142,
+          "modelName": "claude-opus-5-5",
+          "outputTokens": 405050
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 29570432,
+          "cost": 8.1924944,
+          "inputTokens": 571474,
+          "modelName": "gpt-6-sol",
+          "outputTokens": 113546
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 22340529,
+          "cost": 4.971236924999998,
+          "inputTokens": 3571003,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 73966
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 54507008,
+          "cost": 2.01367456,
+          "inputTokens": 2574048,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 340604
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 87034368,
+          "cost": 1.5014246800000002,
+          "inputTokens": 3070335,
+          "modelName": "gpt-6-luna",
+          "outputTokens": 648095
+        },
+        {
+          "cacheCreationTokens": 254639,
+          "cacheReadTokens": 773021,
+          "cost": 0.9254957,
+          "inputTokens": 22,
+          "modelName": "claude-sonnet-5",
+          "outputTokens": 13425
+        }
+      ],
+      "modelsUsed": [
+        "claude-opus-5-5",
+        "claude-sonnet-5",
+        "gemini-3.8-flash-high",
+        "gpt-5.6-luna",
+        "gpt-6-astra",
+        "gpt-6-luna",
+        "gpt-6-sol"
+      ],
+      "outputTokens": 2091383,
+      "period": "2026-09-29",
+      "totalCost": 210.40956926499996,
+      "totalTokens": 415391137
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 3037631,
+      "cacheReadTokens": 352865924,
+      "inputTokens": 12296621,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "claude",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 93211648,
+          "cost": 126.766538,
+          "inputTokens": 1441349,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 382828
+        },
+        {
+          "cacheCreationTokens": 2764259,
+          "cacheReadTokens": 84075993,
+          "cost": 39.00546660000002,
+          "inputTokens": 982,
+          "modelName": "claude-opus-5-5",
+          "outputTokens": 305018
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 28482411,
+          "cost": 6.367137075,
+          "inputTokens": 4631700,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 96842
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 15749760,
+          "cost": 3.771192,
+          "inputTokens": 627928,
+          "modelName": "gpt-6.1-sol",
+          "outputTokens": 94036
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 6171648,
+          "cost": 2.4248296,
+          "inputTokens": 458230,
+          "modelName": "gpt-6-sol",
+          "outputTokens": 27404
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 123751168,
+          "cost": 2.28564258,
+          "inputTokens": 5136394,
+          "modelName": "gpt-6-luna",
+          "outputTokens": 1068983
+        },
+        {
+          "cacheCreationTokens": 273372,
+          "cacheReadTokens": 1423296,
+          "cost": 0.8526556000000001,
+          "inputTokens": 38,
+          "modelName": "claude-sonnet-5-5",
+          "outputTokens": 2682
+        }
+      ],
+      "modelsUsed": [
+        "claude-opus-5-5",
+        "claude-sonnet-5-5",
+        "gemini-3.8-flash-high",
+        "gpt-6-astra",
+        "gpt-6-luna",
+        "gpt-6-sol",
+        "gpt-6.1-sol"
+      ],
+      "outputTokens": 1977793,
+      "period": "2026-09-30",
+      "totalCost": 181.47346145500003,
+      "totalTokens": 370283042
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 3738776,
+      "cacheReadTokens": 401627283,
+      "inputTokens": 8574841,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "claude",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 104536832,
+          "cost": 133.855122,
+          "inputTokens": 1388559,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 308654
+        },
+        {
+          "cacheCreationTokens": 3281753,
+          "cacheReadTokens": 129766104,
+          "cost": 63.48791880000004,
+          "inputTokens": 1652,
+          "modelName": "claude-opus-5-5",
+          "outputTokens": 721020
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 29707776,
+          "cost": 7.1874936,
+          "inputTokens": 1484953,
+          "modelName": "gpt-6.1-sol",
+          "outputTokens": 124681
+        },
+        {
+          "cacheCreationTokens": 370032,
+          "cacheReadTokens": 6731083,
+          "cost": 2.3287483000000004,
+          "inputTokens": 122,
+          "modelName": "claude-sonnet-5-5",
+          "outputTokens": 43976
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 123736064,
+          "cost": 2.16527274,
+          "inputTokens": 4359121,
+          "modelName": "gpt-6-luna",
+          "outputTokens": 984000
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 6779430,
+          "cost": 1.7303767499999991,
+          "inputTokens": 1340366,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 16585
+        },
+        {
+          "cacheCreationTokens": 86991,
+          "cacheReadTokens": 369994,
+          "cost": 0.20117615000000003,
+          "inputTokens": 68,
+          "modelName": "claude-haiku-4-5-20251001",
+          "outputTokens": 11074
+        }
+      ],
+      "modelsUsed": [
+        "claude-haiku-4-5-20251001",
+        "claude-opus-5-5",
+        "claude-sonnet-5-5",
+        "gemini-3.8-flash-high",
+        "gpt-6-astra",
+        "gpt-6-luna",
+        "gpt-6.1-sol"
+      ],
+      "outputTokens": 2209990,
+      "period": "2026-10-01",
+      "totalCost": 210.95610834000004,
+      "totalTokens": 416192077
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 4824892,
+      "cacheReadTokens": 297050814,
+      "inputTokens": 4063719,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "claude",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 4068094,
+          "cacheReadTokens": 215891279,
+          "cost": 84.15809380000009,
+          "inputTokens": 2138,
+          "modelName": "claude-opus-5-5",
+          "outputTokens": 692008
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 29858351,
+          "cost": 4.974585074999997,
+          "inputTokens": 2709230,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 98190
+        },
+        {
+          "cacheCreationTokens": 523278,
+          "cacheReadTokens": 13612153,
+          "cost": 3.1273733,
+          "inputTokens": 222,
+          "modelName": "claude-sonnet-5-5",
+          "outputTokens": 18523
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 35812608,
+          "cost": 0.64168278,
+          "inputTokens": 1343447,
+          "modelName": "gpt-6-luna",
+          "outputTokens": 298424
+        },
+        {
+          "cacheCreationTokens": 61457,
+          "cacheReadTokens": 764758,
+          "cost": 0.45107160000000013,
+          "inputTokens": 36,
+          "modelName": "claude-sonnet-5",
+          "outputTokens": 5222
+        },
+        {
+          "cacheCreationTokens": 172063,
+          "cacheReadTokens": 871009,
+          "cost": 0.37350665000000005,
+          "inputTokens": 192,
+          "modelName": "claude-haiku-4-5-20251001",
+          "outputTokens": 14227
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 240656,
+          "cost": 0.03816345,
+          "inputTokens": 8454,
+          "modelName": "gemini-3.8-flash",
+          "outputTokens": 2901
+        }
+      ],
+      "modelsUsed": [
+        "claude-haiku-4-5-20251001",
+        "claude-opus-5-5",
+        "claude-sonnet-5",
+        "claude-sonnet-5-5",
+        "gemini-3.8-flash",
+        "gemini-3.8-flash-high",
+        "gpt-6-luna"
+      ],
+      "outputTokens": 1129495,
+      "period": "2026-10-02",
+      "totalCost": 93.76447665499998,
+      "totalTokens": 307159045
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 7521848,
+      "cacheReadTokens": 543370391,
+      "inputTokens": 9164121,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "claude",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 6699223,
+          "cacheReadTokens": 318994592,
+          "cost": 121.66525340000005,
+          "inputTokens": 3694,
+          "modelName": "claude-opus-5-5",
+          "outputTokens": 766226
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 11735168,
+          "cost": 17.725638,
+          "inputTokens": 337092,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 52391
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 87785984,
+          "cost": 17.1863164,
+          "inputTokens": 2255569,
+          "modelName": "gpt-6.1-sol",
+          "outputTokens": 389658
+        },
+        {
+          "cacheCreationTokens": 661863,
+          "cacheReadTokens": 11183397,
+          "cost": 2.9375307000000004,
+          "inputTokens": 222,
+          "modelName": "claude-sonnet-5-5",
+          "outputTokens": 9171
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 9900525,
+          "cost": 2.199151875000001,
+          "inputTokens": 1556360,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 35878
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 103490048,
+          "cost": 1.9794078800000001,
+          "inputTokens": 5011104,
+          "modelName": "gpt-6-luna",
+          "outputTokens": 886794
+        },
+        {
+          "cacheCreationTokens": 160762,
+          "cacheReadTokens": 280677,
+          "cost": 0.27270845,
+          "inputTokens": 80,
+          "modelName": "claude-haiku-4-5-20251001",
+          "outputTokens": 2255
+        }
+      ],
+      "modelsUsed": [
+        "claude-haiku-4-5-20251001",
+        "claude-opus-5-5",
+        "claude-sonnet-5-5",
+        "gemini-3.8-flash-high",
+        "gpt-6-astra",
+        "gpt-6-luna",
+        "gpt-6.1-sol"
+      ],
+      "outputTokens": 2142373,
+      "period": "2026-10-03",
+      "totalCost": 163.96600670500004,
+      "totalTokens": 562240013
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 11458995,
+      "cacheReadTokens": 673445444,
+      "inputTokens": 11373944,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "claude",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 8800066,
+          "cacheReadTokens": 387164892,
+          "cost": 155.4764474000001,
+          "inputTokens": 3760,
+          "modelName": "claude-opus-5-5",
+          "outputTokens": 1039822
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 82633472,
+          "cost": 113.507452,
+          "inputTokens": 1686883,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 280103
+        },
+        {
+          "cacheCreationTokens": 2551668,
+          "cacheReadTokens": 62559651,
+          "cost": 14.963913100000008,
+          "inputTokens": 1044,
+          "modelName": "claude-sonnet-5-5",
+          "outputTokens": 167272
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 33601836,
+          "cost": 7.233595200000006,
+          "inputTokens": 5140450,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 94850
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 15772032,
+          "cost": 5.9650652,
+          "inputTokens": 1613716,
+          "modelName": "gpt-6.1-sol",
+          "outputTokens": 116043
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 91507712,
+          "cost": 1.4804442199999999,
+          "inputTokens": 2928021,
+          "modelName": "gpt-6-luna",
+          "outputTokens": 545130
+        },
+        {
+          "cacheCreationTokens": 107261,
+          "cacheReadTokens": 205849,
+          "cost": 0.19254664999999996,
+          "inputTokens": 70,
+          "modelName": "claude-haiku-4-5-20251001",
+          "outputTokens": 1093
+        }
+      ],
+      "modelsUsed": [
+        "claude-haiku-4-5-20251001",
+        "claude-opus-5-5",
+        "claude-sonnet-5-5",
+        "gemini-3.8-flash-high",
+        "gpt-6-astra",
+        "gpt-6-luna",
+        "gpt-6.1-sol"
+      ],
+      "outputTokens": 2244313,
+      "period": "2026-10-04",
+      "totalCost": 298.81946377,
+      "totalTokens": 698656678
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 8201462,
+      "cacheReadTokens": 452789542,
+      "inputTokens": 6280234,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "claude",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 6669626,
+          "cacheReadTokens": 355217222,
+          "cost": 155.94004739999986,
+          "inputTokens": 2980,
+          "modelName": "claude-opus-5-5",
+          "outputTokens": 1746381
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 34052063,
+          "cost": 6.858248475000003,
+          "inputTokens": 4755030,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 67897
+        },
+        {
+          "cacheCreationTokens": 1416646,
+          "cacheReadTokens": 25190177,
+          "cost": 6.279704699999999,
+          "inputTokens": 546,
+          "modelName": "claude-sonnet-5-5",
+          "outputTokens": 21798
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 20024704,
+          "cost": 5.1015344,
+          "inputTokens": 952682,
+          "modelName": "gpt-6.1-sol",
+          "outputTokens": 119370
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 17965824,
+          "cost": 0.29203844,
+          "inputTokens": 568902,
+          "modelName": "gpt-6-luna",
+          "outputTokens": 110980
+        },
+        {
+          "cacheCreationTokens": 115190,
+          "cacheReadTokens": 339552,
+          "cost": 0.18610670000000004,
+          "inputTokens": 94,
+          "modelName": "claude-haiku-4-5-20251001",
+          "outputTokens": 1614
+        }
+      ],
+      "modelsUsed": [
+        "claude-haiku-4-5-20251001",
+        "claude-opus-5-5",
+        "claude-sonnet-5-5",
+        "gemini-3.8-flash-high",
+        "gpt-6-luna",
+        "gpt-6.1-sol"
+      ],
+      "outputTokens": 2068040,
+      "period": "2026-10-05",
+      "totalCost": 174.6576801149998,
+      "totalTokens": 469468200
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 8236929,
+      "cacheReadTokens": 488133274,
+      "inputTokens": 5579892,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "claude",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 6411157,
+          "cacheReadTokens": 326105149,
+          "cost": 128.87886980000013,
+          "inputTokens": 3418,
+          "modelName": "claude-opus-5-5",
+          "outputTokens": 1148097
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 12517376,
+          "cost": 18.357505999999997,
+          "inputTokens": 269863,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 62830
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 68931584,
+          "cost": 13.8824424,
+          "inputTokens": 1804287,
+          "modelName": "gpt-6.1-sol",
+          "outputTokens": 338071
+        },
+        {
+          "cacheCreationTokens": 1603436,
+          "cacheReadTokens": 16916462,
+          "cost": 5.8424902,
+          "inputTokens": 432,
+          "modelName": "claude-sonnet-5-5",
+          "outputTokens": 14139
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 8266712,
+          "cost": 1.5735398999999999,
+          "inputTokens": 934847,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 21159
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 53818624,
+          "cost": 1.0346292400000001,
+          "inputTokens": 2566725,
+          "modelName": "gpt-6-luna",
+          "outputTokens": 479541
+        },
+        {
+          "cacheCreationTokens": 222336,
+          "cacheReadTokens": 1577367,
+          "cost": 0.4716667,
+          "inputTokens": 320,
+          "modelName": "claude-haiku-4-5-20251001",
+          "outputTokens": 7138
+        }
+      ],
+      "modelsUsed": [
+        "claude-haiku-4-5-20251001",
+        "claude-opus-5-5",
+        "claude-sonnet-5-5",
+        "gemini-3.8-flash-high",
+        "gpt-6-astra",
+        "gpt-6-luna",
+        "gpt-6.1-sol"
+      ],
+      "outputTokens": 2070975,
+      "period": "2026-10-06",
+      "totalCost": 170.0411442400001,
+      "totalTokens": 504067218
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 8080960,
+      "cacheReadTokens": 446226948,
+      "inputTokens": 6068504,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "claude",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 6698715,
+          "cacheReadTokens": 301494320,
+          "cost": 124.83605500000019,
+          "inputTokens": 3390,
+          "modelName": "claude-opus-5-5",
+          "outputTokens": 1042479
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 39876736,
+          "cost": 53.797316,
+          "inputTokens": 596793,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 159053
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 31705600,
+          "cost": 9.126128,
+          "inputTokens": 1690244,
+          "modelName": "gpt-6.1-sol",
+          "outputTokens": 257508
+        },
+        {
+          "cacheCreationTokens": 1269584,
+          "cacheReadTokens": 10522294,
+          "cost": 4.288343400000001,
+          "inputTokens": 322,
+          "modelName": "claude-sonnet-5-5",
+          "outputTokens": 6151
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 18254716,
+          "cost": 3.434518950000001,
+          "inputTokens": 1923507,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 86074
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 43839488,
+          "cost": 0.8474334799999999,
+          "inputTokens": 1845401,
+          "modelName": "gpt-6-luna",
+          "outputTokens": 448997
+        },
+        {
+          "cacheCreationTokens": 112661,
+          "cacheReadTokens": 304466,
+          "cost": 0.18134085000000003,
+          "inputTokens": 78,
+          "modelName": "claude-haiku-4-5-20251001",
+          "outputTokens": 1998
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 229328,
+          "cost": 0.0315726,
+          "inputTokens": 8769,
+          "modelName": "gemini-3.8-flash-n",
+          "outputTokens": 2079
+        }
+      ],
+      "modelsUsed": [
+        "claude-haiku-4-5-20251001",
+        "claude-opus-5-5",
+        "claude-sonnet-5-5",
+        "gemini-3.8-flash-high",
+        "gemini-3.8-flash-n",
+        "gpt-6-astra",
+        "gpt-6-luna",
+        "gpt-6.1-sol"
+      ],
+      "outputTokens": 2004339,
+      "period": "2026-10-07",
+      "totalCost": 196.54270828000017,
+      "totalTokens": 462460753
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 3407829,
+      "cacheReadTokens": 231565464,
+      "inputTokens": 4303118,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "claude",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 2891232,
+          "cacheReadTokens": 125149231,
+          "cost": 55.34754320000003,
+          "inputTokens": 1092,
+          "modelName": "claude-opus-5-5",
+          "outputTokens": 545781
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 18504576,
+          "cost": 25.757706,
+          "inputTokens": 297383,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 85586
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 16551342,
+          "cost": 2.8759794000000003,
+          "inputTokens": 1702990,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 35639
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 7565312,
+          "cost": 2.0674072,
+          "inputTokens": 405378,
+          "modelName": "gpt-6.1-sol",
+          "outputTokens": 50012
+        },
+        {
+          "cacheCreationTokens": 445109,
+          "cacheReadTokens": 6253028,
+          "cost": 1.7596633000000002,
+          "inputTokens": 124,
+          "modelName": "claude-sonnet-5-5",
+          "outputTokens": 2134
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 54766336,
+          "cost": 1.00540286,
+          "inputTokens": 1651605,
+          "modelName": "gpt-6-luna",
+          "outputTokens": 585158
+        },
+        {
+          "cacheCreationTokens": 71488,
+          "cacheReadTokens": 0,
+          "cost": 0.014322000000000001,
+          "inputTokens": 4,
+          "modelName": "claude-haiku-5-5",
+          "outputTokens": 48
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 2775639,
+          "cost": 0,
+          "inputTokens": 244542,
+          "missingPricing": true,
+          "modelName": "model_placeholder_m404",
+          "outputTokens": 39091
+        }
+      ],
+      "modelsUsed": [
+        "claude-haiku-5-5",
+        "claude-opus-5-5",
+        "claude-sonnet-5-5",
+        "gemini-3.8-flash-high",
+        "gpt-6-astra",
+        "gpt-6-luna",
+        "gpt-6.1-sol",
+        "model_placeholder_m404"
+      ],
+      "outputTokens": 1343449,
+      "period": "2026-10-08",
+      "totalCost": 88.82802396000005,
+      "totalTokens": 240679524
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 4198053,
+      "cacheReadTokens": 305132995,
+      "inputTokens": 5189617,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "claude",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 3188871,
+          "cacheReadTokens": 111267728,
+          "cost": 48.28450359999996,
+          "inputTokens": 1344,
+          "modelName": "claude-opus-5-5",
+          "outputTokens": 310893
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 25353472,
+          "cost": 38.614912,
+          "inputTokens": 786294,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 107970
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 50193536,
+          "cost": 9.8729976,
+          "inputTokens": 926762,
+          "modelName": "gpt-6.1-sol",
+          "outputTokens": 300012
+        },
+        {
+          "cacheCreationTokens": 1009182,
+          "cacheReadTokens": 34279021,
+          "cost": 9.245676100000004,
+          "inputTokens": 516,
+          "modelName": "claude-sonnet-5-5",
+          "outputTokens": 220380
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 23347224,
+          "cost": 3.63132105,
+          "inputTokens": 1832034,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 69803
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 60447488,
+          "cost": 1.04973128,
+          "inputTokens": 1635719,
+          "modelName": "gpt-6-luna",
+          "outputTokens": 563369
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 244526,
+          "cost": 0.0372492,
+          "inputTokens": 6948,
+          "modelName": "gemini-3.8-flash-n",
+          "outputTokens": 2217
+        }
+      ],
+      "modelsUsed": [
+        "claude-opus-5-5",
+        "claude-sonnet-5-5",
+        "gemini-3.8-flash-high",
+        "gemini-3.8-flash-n",
+        "gpt-6-astra",
+        "gpt-6-luna",
+        "gpt-6.1-sol"
+      ],
+      "outputTokens": 1574644,
+      "period": "2026-10-09",
+      "totalCost": 110.73639082999995,
+      "totalTokens": 316161943
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 2759515,
+      "cacheReadTokens": 263742467,
+      "inputTokens": 3678516,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "claude",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 1400708,
+          "cacheReadTokens": 162381769,
+          "cost": 53.70538180000001,
+          "inputTokens": 988,
+          "modelName": "claude-opus-5-5",
+          "outputTokens": 519258
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 38080000,
+          "cost": 9.424434000000002,
+          "inputTokens": 1350557,
+          "modelName": "gpt-6.1-sol",
+          "outputTokens": 291532
+        },
+        {
+          "cacheCreationTokens": 1358807,
+          "cacheReadTokens": 23767255,
+          "cost": 8.608628500000002,
+          "inputTokens": 282,
+          "modelName": "claude-sonnet-5-5",
+          "outputTokens": 204088
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 37002752,
+          "cost": 0.77439612,
+          "inputTokens": 2018986,
+          "modelName": "gpt-6-luna",
+          "outputTokens": 404940
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 2510691,
+          "cost": 0.5750190750000003,
+          "inputTokens": 307703,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 24280
+        }
+      ],
+      "modelsUsed": [
+        "claude-opus-5-5",
+        "claude-sonnet-5-5",
+        "gemini-3.8-flash-high",
+        "gpt-6-luna",
+        "gpt-6.1-sol"
+      ],
+      "outputTokens": 1444098,
+      "period": "2026-10-10",
+      "totalCost": 73.08785949500002,
+      "totalTokens": 271641900
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 4009445,
+      "cacheReadTokens": 210907586,
+      "inputTokens": 2259164,
+      "metadata": {
+        "agents": [
+          "antigravity",
+          "claude",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 3677846,
+          "cacheReadTokens": 146502313,
+          "cost": 79.7821436,
+          "inputTokens": 1534,
+          "modelName": "claude-opus-5-5",
+          "outputTokens": 1211522
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 19323520,
+          "cost": 27.03506,
+          "inputTokens": 326084,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 89014
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 5809024,
+          "cost": 1.9195883999999999,
+          "inputTokens": 443698,
+          "modelName": "gpt-6.1-sol",
+          "outputTokens": 45129
+        },
+        {
+          "cacheCreationTokens": 331599,
+          "cacheReadTokens": 2688466,
+          "cost": 1.4112666,
+          "inputTokens": 96,
+          "modelName": "claude-sonnet-5-5",
+          "outputTokens": 12095
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 6363719,
+          "cost": 0.8996901749999999,
+          "inputTokens": 352725,
+          "modelName": "gemini-3.8-flash-high",
+          "outputTokens": 20033
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 30220544,
+          "cost": 0.56737014,
+          "inputTokens": 1135027,
+          "modelName": "gpt-6-luna",
+          "outputTokens": 303324
+        }
+      ],
+      "modelsUsed": [
+        "claude-opus-5-5",
+        "claude-sonnet-5-5",
+        "gemini-3.8-flash-high",
+        "gpt-6-astra",
+        "gpt-6-luna",
+        "gpt-6.1-sol"
+      ],
+      "outputTokens": 1681117,
+      "period": "2026-10-11",
+      "totalCost": 111.61511891500001,
+      "totalTokens": 218879377
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 1289178,
+      "cacheReadTokens": 120411580,
+      "inputTokens": 124989,
+      "metadata": {
+        "agents": [
+          "claude",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 1289178,
+          "cacheReadTokens": 115824444,
+          "cost": 43.80790780000002,
+          "inputTokens": 836,
+          "modelName": "claude-opus-5-5",
+          "outputTokens": 545686
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 4587136,
+          "cost": 7.726816,
+          "inputTokens": 124153,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 37963
+        }
+      ],
+      "modelsUsed": [
+        "claude-opus-5-5",
+        "gpt-6-astra"
+      ],
+      "outputTokens": 583649,
+      "period": "2026-10-12",
+      "totalCost": 51.534723800000016,
+      "totalTokens": 122409396
+    }
+  ],
+  "totals": {
+    "cacheCreationTokens": 110110187,
+    "cacheReadTokens": 12818792457,
+    "inputTokens": 385763516,
+    "outputTokens": 66310583,
+    "totalCost": 5850.690238873999,
+    "totalTokens": 13385014067,
+    "unpricedModels": [
+      "model_placeholder_m301",
+      "model_placeholder_m404",
+      "model_placeholder_m50"
+    ]
+  },
+  "tools": [
+    [
+      "Claude Code",
+      2364.6182763249994
+    ],
+    [
+      "Codex",
+      3486.0719625489996
+    ]
+  ]
+}
