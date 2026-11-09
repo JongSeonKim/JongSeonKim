@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "MacBook-Pro-M5-14",
-  "updatedAt": "2026-11-09T10:11:53.245Z",
+  "updatedAt": "2026-11-09T14:09:12.120Z",
   "daily": [
     {
       "agent": "all",
@@ -3757,9 +3757,9 @@
     },
     {
       "agent": "all",
-      "cacheCreationTokens": 1400708,
-      "cacheReadTokens": 239975212,
-      "inputTokens": 3678234,
+      "cacheCreationTokens": 1285061,
+      "cacheReadTokens": 239050149,
+      "inputTokens": 3678210,
       "metadata": {
         "agents": [
           "antigravity",
@@ -3769,12 +3769,12 @@
       },
       "modelBreakdowns": [
         {
-          "cacheCreationTokens": 1400708,
-          "cacheReadTokens": 162381769,
-          "cost": 53.70538180000001,
-          "inputTokens": 988,
+          "cacheCreationTokens": 1285061,
+          "cacheReadTokens": 161456706,
+          "cost": 51.96641720000001,
+          "inputTokens": 964,
           "modelName": "claude-opus-5-5",
-          "outputTokens": 519258
+          "outputTokens": 487824
         },
         {
           "cacheCreationTokens": 0,
@@ -3807,10 +3807,10 @@
         "gpt-6-luna",
         "gpt-6.1-sol"
       ],
-      "outputTokens": 1240010,
+      "outputTokens": 1208576,
       "period": "2026-10-10",
-      "totalCost": 64.47923099500002,
-      "totalTokens": 246311468
+      "totalCost": 62.74026639500001,
+      "totalTokens": 245239300
     },
     {
       "agent": "all",
@@ -5709,9 +5709,9 @@
     },
     {
       "agent": "all",
-      "cacheCreationTokens": 7263966,
-      "cacheReadTokens": 556349053,
-      "inputTokens": 6809636,
+      "cacheCreationTokens": 10321189,
+      "cacheReadTokens": 703662065,
+      "inputTokens": 6811096,
       "metadata": {
         "agents": [
           "claude",
@@ -5728,20 +5728,20 @@
           "outputTokens": 452566
         },
         {
-          "cacheCreationTokens": 6333860,
-          "cacheReadTokens": 355651616,
-          "cost": 151.08645920000004,
-          "inputTokens": 3188,
+          "cacheCreationTokens": 8755216,
+          "cacheReadTokens": 497187860,
+          "cost": 209.3559599999997,
+          "inputTokens": 4484,
           "modelName": "claude-opus-5-5",
-          "outputTokens": 1575761
+          "outputTokens": 2105072
         },
         {
-          "cacheCreationTokens": 930106,
-          "cacheReadTokens": 5966813,
-          "cost": 3.6522303,
-          "inputTokens": 212,
+          "cacheCreationTokens": 1498838,
+          "cacheReadTokens": 11743581,
+          "cost": 6.1318711,
+          "inputTokens": 374,
           "modelName": "claude-sonnet-5-5",
-          "outputTokens": 72986
+          "outputTokens": 120967
         },
         {
           "cacheCreationTokens": 0,
@@ -5758,28 +5758,37 @@
           "inputTokens": 81041,
           "modelName": "gpt-6.1-sol",
           "outputTokens": 1622
+        },
+        {
+          "cacheCreationTokens": 67135,
+          "cacheReadTokens": 0,
+          "cost": 0.0135277,
+          "inputTokens": 2,
+          "modelName": "claude-haiku-5-5",
+          "outputTokens": 201
         }
       ],
       "modelsUsed": [
+        "claude-haiku-5-5",
         "claude-opus-5-5",
         "claude-sonnet-5-5",
         "gpt-6-astra",
         "gpt-6.1-sol",
         "gpt-6.1-terra"
       ],
-      "outputTokens": 2150457,
+      "outputTokens": 2727950,
       "period": "2026-11-09",
-      "totalCost": 404.6746222999999,
-      "totalTokens": 572573112
+      "totalCost": 465.43729159999964,
+      "totalTokens": 723522300
     }
   ],
   "totals": {
-    "cacheCreationTokens": 144402085,
-    "cacheReadTokens": 18529499926,
-    "inputTokens": 528417793,
-    "outputTokens": 100603200,
-    "totalCost": 8313.575866304001,
-    "totalTokens": 19307209655,
+    "cacheCreationTokens": 147343661,
+    "cacheReadTokens": 18675887875,
+    "inputTokens": 528419229,
+    "outputTokens": 101149259,
+    "totalCost": 8372.599571004002,
+    "totalTokens": 19457086675,
     "unpricedModels": [
       "model_placeholder_m301",
       "model_placeholder_m404"
@@ -5788,7 +5797,7 @@
   "tools": [
     [
       "Claude Code",
-      3019.986156035002
+      3079.009860735003
     ],
     [
       "Codex",
