@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "MacBook-Pro-M5-14",
-  "updatedAt": "2026-11-08T12:52:14.193Z",
+  "updatedAt": "2026-11-09T10:11:53.245Z",
   "daily": [
     {
       "agent": "all",
@@ -3673,9 +3673,9 @@
     },
     {
       "agent": "all",
-      "cacheCreationTokens": 1365152,
-      "cacheReadTokens": 196405396,
-      "inputTokens": 5188405,
+      "cacheCreationTokens": 514548,
+      "cacheReadTokens": 173127335,
+      "inputTokens": 5187893,
       "metadata": {
         "agents": [
           "antigravity",
@@ -3693,20 +3693,20 @@
           "outputTokens": 107970
         },
         {
-          "cacheCreationTokens": 1040813,
-          "cacheReadTokens": 28521363,
-          "cost": 15.829491599999994,
-          "inputTokens": 446,
-          "modelName": "claude-opus-5-5",
-          "outputTokens": 134595
-        },
-        {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 50193536,
           "cost": 9.8729976,
           "inputTokens": 926762,
           "modelName": "gpt-6.1-sol",
           "outputTokens": 300012
+        },
+        {
+          "cacheCreationTokens": 393544,
+          "cacheReadTokens": 9776637,
+          "cost": 5.8067554,
+          "inputTokens": 54,
+          "modelName": "claude-opus-5-5",
+          "outputTokens": 35143
         },
         {
           "cacheCreationTokens": 0,
@@ -3717,12 +3717,12 @@
           "outputTokens": 69803
         },
         {
-          "cacheCreationTokens": 324339,
-          "cacheReadTokens": 8297787,
-          "cost": 2.7308087,
-          "inputTokens": 202,
+          "cacheCreationTokens": 121004,
+          "cacheReadTokens": 3764452,
+          "cost": 1.1516251999999998,
+          "inputTokens": 82,
           "modelName": "claude-sonnet-5-5",
-          "outputTokens": 60327
+          "outputTokens": 29100
         },
         {
           "cacheCreationTokens": 0,
@@ -3750,16 +3750,16 @@
         "gpt-6-luna",
         "gpt-6.1-sol"
       ],
-      "outputTokens": 1238293,
+      "outputTokens": 1107614,
       "period": "2026-10-09",
-      "totalCost": 71.76651143000001,
-      "totalTokens": 204263880
+      "totalCost": 60.16459173,
+      "totalTokens": 180004024
     },
     {
       "agent": "all",
-      "cacheCreationTokens": 2759515,
-      "cacheReadTokens": 263742467,
-      "inputTokens": 3678516,
+      "cacheCreationTokens": 1400708,
+      "cacheReadTokens": 239975212,
+      "inputTokens": 3678234,
       "metadata": {
         "agents": [
           "antigravity",
@@ -3785,14 +3785,6 @@
           "outputTokens": 291532
         },
         {
-          "cacheCreationTokens": 1358807,
-          "cacheReadTokens": 23767255,
-          "cost": 8.608628500000002,
-          "inputTokens": 282,
-          "modelName": "claude-sonnet-5-5",
-          "outputTokens": 204088
-        },
-        {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 37002752,
           "cost": 0.77439612,
@@ -3811,15 +3803,14 @@
       ],
       "modelsUsed": [
         "claude-opus-5-5",
-        "claude-sonnet-5-5",
         "gemini-3.8-flash-high",
         "gpt-6-luna",
         "gpt-6.1-sol"
       ],
-      "outputTokens": 1444098,
+      "outputTokens": 1240010,
       "period": "2026-10-10",
-      "totalCost": 73.08785949500002,
-      "totalTokens": 271641900
+      "totalCost": 64.47923099500002,
+      "totalTokens": 246311468
     },
     {
       "agent": "all",
@@ -5635,9 +5626,9 @@
     },
     {
       "agent": "all",
-      "cacheCreationTokens": 8158532,
-      "cacheReadTokens": 547853113,
-      "inputTokens": 5666185,
+      "cacheCreationTokens": 10350997,
+      "cacheReadTokens": 678650326,
+      "inputTokens": 6564778,
       "metadata": {
         "agents": [
           "claude",
@@ -5646,28 +5637,28 @@
       },
       "modelBreakdowns": [
         {
-          "cacheCreationTokens": 7913835,
-          "cacheReadTokens": 394128516,
-          "cost": 174.58992019999968,
-          "inputTokens": 3762,
+          "cacheCreationTokens": 10106300,
+          "cacheReadTokens": 505100065,
+          "cost": 223.8846259999998,
+          "inputTokens": 4928,
           "modelName": "claude-opus-5-5",
-          "outputTokens": 1840705
+          "outputTokens": 2456643
         },
         {
           "cacheCreationTokens": 0,
-          "cacheReadTokens": 125238144,
-          "cost": 168.532504,
-          "inputTokens": 2982266,
+          "cacheReadTokens": 143533056,
+          "cost": 196.370306,
+          "inputTokens": 3682450,
           "modelName": "gpt-6-astra",
-          "outputTokens": 269434
+          "outputTokens": 320255
         },
         {
           "cacheCreationTokens": 0,
-          "cacheReadTokens": 22808704,
-          "cost": 3.2937291999999996,
-          "inputTokens": 1823384,
+          "cacheReadTokens": 24339456,
+          "cost": 3.5965198,
+          "inputTokens": 2020627,
           "modelName": "gpt-6.1-terra",
-          "outputTokens": 65982
+          "outputTokens": 71784
         },
         {
           "cacheCreationTokens": 0,
@@ -5711,19 +5702,84 @@
         "gpt-6.1-sol",
         "gpt-6.1-terra"
       ],
-      "outputTokens": 2237391,
+      "outputTokens": 2909952,
       "period": "2026-11-08",
-      "totalCost": 349.22659009999967,
-      "totalTokens": 563915221
+      "totalCost": 426.6618884999998,
+      "totalTokens": 698476053
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 7263966,
+      "cacheReadTokens": 556349053,
+      "inputTokens": 6809636,
+      "metadata": {
+        "agents": [
+          "claude",
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 175799040,
+          "cost": 246.65399,
+          "inputTokens": 4822665,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 452566
+        },
+        {
+          "cacheCreationTokens": 6333860,
+          "cacheReadTokens": 355651616,
+          "cost": 151.08645920000004,
+          "inputTokens": 3188,
+          "modelName": "claude-opus-5-5",
+          "outputTokens": 1575761
+        },
+        {
+          "cacheCreationTokens": 930106,
+          "cacheReadTokens": 5966813,
+          "cost": 3.6522303,
+          "inputTokens": 212,
+          "modelName": "claude-sonnet-5-5",
+          "outputTokens": 72986
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 18593152,
+          "cost": 3.0697976,
+          "inputTokens": 1902530,
+          "modelName": "gpt-6.1-terra",
+          "outputTokens": 47522
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 338432,
+          "cost": 0.2121452,
+          "inputTokens": 81041,
+          "modelName": "gpt-6.1-sol",
+          "outputTokens": 1622
+        }
+      ],
+      "modelsUsed": [
+        "claude-opus-5-5",
+        "claude-sonnet-5-5",
+        "gpt-6-astra",
+        "gpt-6.1-sol",
+        "gpt-6.1-terra"
+      ],
+      "outputTokens": 2150457,
+      "period": "2026-11-09",
+      "totalCost": 404.6746222999999,
+      "totalTokens": 572573112
     }
   ],
   "totals": {
-    "cacheCreationTokens": 137155065,
-    "cacheReadTokens": 17889398976,
-    "inputTokens": 520710358,
-    "outputTokens": 98114949,
-    "totalCost": 7851.676493804001,
-    "totalTokens": 18649665999,
+    "cacheCreationTokens": 144402085,
+    "cacheReadTokens": 18529499926,
+    "inputTokens": 528417793,
+    "outputTokens": 100603200,
+    "totalCost": 8313.575866304001,
+    "totalTokens": 19307209655,
     "unpricedModels": [
       "model_placeholder_m301",
       "model_placeholder_m404"
@@ -5732,11 +5788,11 @@
   "tools": [
     [
       "Claude Code",
-      2835.795246935002
+      3019.986156035002
     ],
     [
       "Codex",
-      5015.881246868999
+      5293.589710269
     ]
   ]
 }
