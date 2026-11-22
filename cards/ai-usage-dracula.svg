@@ -16,9 +16,9 @@
   <text x="38" y="37" font-size="16" font-weight="700">AI Coding Usage</text>
   <text x="808" y="37" text-anchor="end" class="muted">All time</text>
   <path d="M38 52H808 M38 207H808 M379 153H808" fill="none" stroke="#44475a"/>
-  <text x="34" y="119" class="tokens">30.26B</text>
-  <text x="38" y="141" class="muted">Total tokens</text>
-  <text x="38" y="182" font-size="22" font-weight="650">$13,930.70</text>
+  <text x="34" y="110" class="tokens">30.26B</text>
+  <text x="38" y="143" class="muted">Total tokens</text>
+  <text x="38" y="176" font-size="22" font-weight="650">$13,931.12</text>
   <text x="808" y="181" text-anchor="end" class="muted">Aug 2026 – Nov 2026</text>
   <text x="379" y="181" class="muted">Monthly cost</text>
   <text x="38" y="198" class="muted">CodeBurn cost</text>
@@ -26,6 +26,6 @@
   <path d="M379.0,119.5 L522.0,90.5 L665.0,71.5 L808.0,68.0" fill="none" stroke="#bd93f9" stroke-width="2" stroke-linejoin="round"/>
   <circle cx="808" cy="68.0" r="3" fill="#bd93f9"/>
   <text x="38" y="231" font-size="14" font-weight="650">Cost share by tool</text>
-  <g clip-path="url(#tool-bar)"><rect x="38.000" y="243" width="416.759" height="7" fill="#ff79c6"/><rect x="457.759" y="243" width="334.207" height="7" fill="#8be9fd"/><rect x="794.967" y="243" width="13.033" height="7" fill="#ffb86c"/></g>
+  <g clip-path="url(#tool-bar)"><rect x="38.000" y="243" width="416.747" height="7" fill="#ff79c6"/><rect x="457.747" y="243" width="334.220" height="7" fill="#8be9fd"/><rect x="794.967" y="243" width="13.033" height="7" fill="#ffb86c"/></g>
   <text x="38" y="275" font-size="14">Claude Code <tspan fill="#ff79c6" font-weight="650">54.5%</tspan></text><text x="232" y="275" font-size="14">Codex <tspan fill="#8be9fd" font-weight="650">43.7%</tspan></text><text x="426" y="275" font-size="14">Antigravity <tspan fill="#ffb86c" font-weight="650">1.7%</tspan></text>
 </svg>
