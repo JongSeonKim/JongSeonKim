@@ -16,16 +16,16 @@
   <text x="38" y="37" font-size="16" font-weight="700">AI Coding Usage</text>
   <text x="808" y="37" text-anchor="end" class="muted">All time</text>
   <path d="M38 52H808 M38 207H808 M379 153H808" fill="none" stroke="#44475a"/>
-  <text x="34" y="110" class="tokens">32.74B</text>
+  <text x="34" y="110" class="tokens">33.6B</text>
   <text x="38" y="143" class="muted">Total tokens</text>
-  <text x="38" y="176" font-size="22" font-weight="650">$15,171.74</text>
+  <text x="38" y="176" font-size="22" font-weight="650">$15,626.60</text>
   <text x="808" y="181" text-anchor="end" class="muted">Aug 2026 – Nov 2026</text>
   <text x="379" y="181" class="muted">Monthly cost</text>
   <text x="38" y="198" class="muted">Total cost</text>
-  <path d="M379.0,126.3 L522.0,103.5 L665.0,88.5 L808.0,68.0 V153 H379 Z" fill="url(#trend)"/>
-  <path d="M379.0,126.3 L522.0,103.5 L665.0,88.5 L808.0,68.0" fill="none" stroke="#bd93f9" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M379.0,128.1 L522.0,107.0 L665.0,93.1 L808.0,68.0 V153 H379 Z" fill="url(#trend)"/>
+  <path d="M379.0,128.1 L522.0,107.0 L665.0,93.1 L808.0,68.0" fill="none" stroke="#bd93f9" stroke-width="2" stroke-linejoin="round"/>
   <circle cx="808" cy="68.0" r="3" fill="#bd93f9"/>
   <text x="38" y="231" font-size="14" font-weight="650">Cost share by tool</text>
-  <g clip-path="url(#tool-bar)"><rect x="38.000" y="243" width="407.572" height="7" fill="#ff79c6"/><rect x="448.572" y="243" width="340.574" height="7" fill="#8be9fd"/><rect x="792.146" y="243" width="15.854" height="7" fill="#ffb86c"/></g>
-  <text x="38" y="275" font-size="14">Claude Code <tspan fill="#ff79c6" font-weight="650">53.3%</tspan></text><text x="232" y="275" font-size="14">Codex <tspan fill="#8be9fd" font-weight="650">44.6%</tspan></text><text x="426" y="275" font-size="14">Antigravity <tspan fill="#ffb86c" font-weight="650">2.1%</tspan></text>
+  <g clip-path="url(#tool-bar)"><rect x="38.000" y="243" width="406.540" height="7" fill="#ff79c6"/><rect x="447.540" y="243" width="339.789" height="7" fill="#8be9fd"/><rect x="790.329" y="243" width="17.671" height="7" fill="#ffb86c"/></g>
+  <text x="38" y="275" font-size="14">Claude Code <tspan fill="#ff79c6" font-weight="650">53.2%</tspan></text><text x="232" y="275" font-size="14">Codex <tspan fill="#8be9fd" font-weight="650">44.5%</tspan></text><text x="426" y="275" font-size="14">Antigravity <tspan fill="#ffb86c" font-weight="650">2.3%</tspan></text>
 </svg>
